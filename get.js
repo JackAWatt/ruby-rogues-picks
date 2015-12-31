@@ -53,7 +53,7 @@ request({
       htmlPage += '<h2>' + title + '</h2>\n';
 
       output += 'Published: ' + published + '\n';
-      htmlPage += '<p>Published: ' + published + '</p>\n';
+      htmlPage += '<p class="published">Published: ' + published + '</p>\n';
 
       output += '- [' + linkText + '](' + link + ')\n';
       htmlPage += '<ul>\n<li><a href="'+ link +'">' + linkText + '</a></li>\n';
