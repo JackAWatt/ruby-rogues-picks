@@ -1,6 +1,17 @@
 # Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
 
+##RR What Makes a Good Manager with Marcus Blankenship
+Published: 12-30-2015
+- [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz — Jessica Kerr](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/ref=sr_1_1?s=books&ie=UTF8&qid=1450808425&sr=1-1&keywords=hard+thing+about+hard+things)
+- [The Narrow Road to the Deep North by Richard Flanagan — Jessica Kerr](http://www.amazon.com/Narrow-Road-Deep-North/dp/0804171475/ref=sr_1_1?s=books&ie=UTF8&qid=1450808444&sr=1-1&keywords=narrow+road+to+the+deep+north)
+- [Star Wars: The Force Awakens — Charles Max Wood](http://www.imdb.com/title/tt2488496/)
+- [JS Remote Conf — Charles Max Wood](https://allremoteconfs.com/js-2016)
+- [Ruby Remote Conf — Charles Max Wood](https://allremoteconfs.com/ruby-2016)
+- [Freelance Remote Conf — Charles Max Wood](https://allremoteconfs.com/freelance-2016)
+- [The War of Art: Break Through the Blocks and Win Your Inner Creative Battles by Steven Pressfield — Marcus Blankenship](http://www.amazon.com/War-Art-Through-Creative-Battles/dp/1936891026/ref=sr_1_1?ie=UTF8&qid=1450808298&sr=8-1&keywords=the+war+of+art)
+- [Predicting the Unpredictable: Pragmatic Approaches to Estimating Project Schedule or Cost by Johanna Rothman — Marcus Blankenship](https://leanpub.com/predictingtheunpredictable?utm_campaign=predictingtheunpredictable&utm_medium=embed&utm_source=www.jrothman.com)
+
 ##RR Refactoring
 Published: 12-16-2015
 - [Longmire — Avdi Grimm](https://www.netflix.com/title/70269479)
@@ -2600,20 +2611,6 @@ Published: 06-16-2012
 - [Paper Tray Spacers  — Charles Max Wood](http://www.amazon.com/gp/product/B008BW3W0E/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B008BW3W0E)
 - [MyBook Hard Drive  — Charles Max Wood](http://www.amazon.com/gp/product/B007XFH3HS/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B007XFH3HS)
 
-##RR Book Club: Working with Unix Processes with Jesse Storimer
-Published: 06-14-2012
-- [Practicing Ruby by Greg Brown — Avdi Grimm](https://devchat.tv/ruby-rogues/058-rr-book-club-working-with-unix-processes-with-jesse-storimer)
-- [Mantano Reader for Android — Avdi Grimm](https://play.google.com/store/apps/details?id=com.mantano.reader.android&hl=en)
-- [Typhoeus — James Edward Gray II](https://github.com/typhoeus/typhoeus)
-- [Drip — James Edward Gray II](https://github.com/seki/Drip)
-- [The DRb book — James Edward Gray II](http://en.wikibooks.org/wiki/Ruby_Programming/Standard_Library/DRb)
-- [RED — James Edward Gray II](http://www.imdb.com/title/tt1245526/?ref_=fn_al_tt_1)
-- [Podcasting A to Z — Charles Max Wood](http://podcastanswerman.com/atoz/)
-- [Brother Labeler — Charles Max Wood](http://www.amazon.com/gp/product/B002KT1ZX0/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002KT1ZX0)
-- [Getting Things Done by David Allen — Charles Max Wood](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280)
-- [USP Ruby Mailing List — Jesse Storimer](http://librelist.com/browser/usp.ruby/)
-- [Shush — Jesse Storimer](https://itunes.apple.com/us/app/shush/id289939916?mt=8)
-
 ##RR Ruby Central with Evan Phoenix and Chad Fowler
 Published: 06-14-2012
 - [Loratdine Alergy Tablets (Generic Claritin) — Evan Phoenix](http://en.wikipedia.org/wiki/Loratadine)
@@ -2629,6 +2626,20 @@ Published: 06-14-2012
 - [Gratuitous Tank Battles — James Edward Gray II](http://gratuitoustankbattles.com/)
 - [Esoteric Programming Languages by David Morgan Marr — Chad Fowler](http://www.webring.org/hub/esolang?w=1920;rh=http%3A%2F%2Fwww%2Edangermouse%2Enet%2Fesoteric%2F;rd=1)
 - [Let Over Lambda — Chad Fowler](http://www.amazon.com/gp/product/1435712757/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1435712757)
+
+##RR Book Club: Working with Unix Processes with Jesse Storimer
+Published: 06-14-2012
+- [Practicing Ruby by Greg Brown — Avdi Grimm](https://devchat.tv/ruby-rogues/058-rr-book-club-working-with-unix-processes-with-jesse-storimer)
+- [Mantano Reader for Android — Avdi Grimm](https://play.google.com/store/apps/details?id=com.mantano.reader.android&hl=en)
+- [Typhoeus — James Edward Gray II](https://github.com/typhoeus/typhoeus)
+- [Drip — James Edward Gray II](https://github.com/seki/Drip)
+- [The DRb book — James Edward Gray II](http://en.wikibooks.org/wiki/Ruby_Programming/Standard_Library/DRb)
+- [RED — James Edward Gray II](http://www.imdb.com/title/tt1245526/?ref_=fn_al_tt_1)
+- [Podcasting A to Z — Charles Max Wood](http://podcastanswerman.com/atoz/)
+- [Brother Labeler — Charles Max Wood](http://www.amazon.com/gp/product/B002KT1ZX0/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002KT1ZX0)
+- [Getting Things Done by David Allen — Charles Max Wood](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280)
+- [USP Ruby Mailing List — Jesse Storimer](http://librelist.com/browser/usp.ruby/)
+- [Shush — Jesse Storimer](https://itunes.apple.com/us/app/shush/id289939916?mt=8)
 
 ##RR David Heinemeier Hansson
 Published: 06-08-2012
