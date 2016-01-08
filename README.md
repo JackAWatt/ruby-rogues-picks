@@ -1,6 +1,22 @@
 #Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
 
+##RR What Makes a Great Developer with Phil Spitler
+Published: 01-06-2016
+- [spitfire — Phil Spitler](https://github.com/spitfireio/)
+- [Rat-a-Tat Cat — Jessica Kerr](http://www.gamewright.com/gamewright/index.php?page=game&section=games&show=61)
+- [Sorry Not Sorry IPA — Jessica Kerr](http://www.stonebrewing.com/beer/stone-collaborations/4-hands-bale-breaker-stone-sorry-not-sorry-ipa#ageGatePassed)
+- [Amazon Fire Kids Edition — Avdi Grimm](http://www.amazon.com/gp/product/B00YYZEQ1G?ref_=kods_dp_hqp_frd)
+- [The Now Habit: A Strategic Program for Overcoming Procrastination and Enjoying Guilt-Free by Neil Fiore — Avdi Grimm](http://www.amazon.com/The-Now-Habit-Overcoming-Procrastination/dp/1585425524)
+- [Intercom Central® 246 - Four Channels HOME Power-line Intercom System — Charles Max Wood](http://www.amazon.com/gp/product/B005HEDAAQ?psc=1&redirect=true&ref_=oh_aui_detailpage_o02_s00)
+- [Fathead — Charles Max Wood](http://www.fathead.com/)
+- [Bloc's Software Engineering Track (SET Program) — Phil Spitler](https://www.bloc.io/software-engineering-track)
+- [Kyle Cease — Phil Spitler](http://www.kylecease.com/)
+- [Phil’s coworker’s Ariel's man crush on Avdi — Phil Spitler](https://devchat.tv/ruby-rogues/241-rr-what-makes-a-great-developer-with-phil-spitler)
+- [Carol Dweck: The Power of Believing That You Can Improve — Phil Spitler](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en)
+- [Wile Kratts (Children's Science Show) — Phil Spitler](http://pbskids.org/wildkratts/)
+- [MindSet by Carol Dweck — Charles Max Wood](http://mindsetonline.com/)
+
 ##RR What Makes a Good Manager with Marcus Blankenship
 Published: 12-30-2015
 - [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers by Ben Horowitz — Jessica Kerr](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/ref=sr_1_1?s=books&ie=UTF8&qid=1450808425&sr=1-1&keywords=hard+thing+about+hard+things)
@@ -2611,6 +2627,20 @@ Published: 06-16-2012
 - [Paper Tray Spacers  — Charles Max Wood](http://www.amazon.com/gp/product/B008BW3W0E/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B008BW3W0E)
 - [MyBook Hard Drive  — Charles Max Wood](http://www.amazon.com/gp/product/B007XFH3HS/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B007XFH3HS)
 
+##RR Book Club: Working with Unix Processes with Jesse Storimer
+Published: 06-14-2012
+- [Practicing Ruby by Greg Brown — Avdi Grimm](https://devchat.tv/ruby-rogues/058-rr-book-club-working-with-unix-processes-with-jesse-storimer)
+- [Mantano Reader for Android — Avdi Grimm](https://play.google.com/store/apps/details?id=com.mantano.reader.android&hl=en)
+- [Typhoeus — James Edward Gray II](https://github.com/typhoeus/typhoeus)
+- [Drip — James Edward Gray II](https://github.com/seki/Drip)
+- [The DRb book — James Edward Gray II](http://en.wikibooks.org/wiki/Ruby_Programming/Standard_Library/DRb)
+- [RED — James Edward Gray II](http://www.imdb.com/title/tt1245526/?ref_=fn_al_tt_1)
+- [Podcasting A to Z — Charles Max Wood](http://podcastanswerman.com/atoz/)
+- [Brother Labeler — Charles Max Wood](http://www.amazon.com/gp/product/B002KT1ZX0/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002KT1ZX0)
+- [Getting Things Done by David Allen — Charles Max Wood](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280)
+- [USP Ruby Mailing List — Jesse Storimer](http://librelist.com/browser/usp.ruby/)
+- [Shush — Jesse Storimer](https://itunes.apple.com/us/app/shush/id289939916?mt=8)
+
 ##RR Ruby Central with Evan Phoenix and Chad Fowler
 Published: 06-14-2012
 - [Loratdine Alergy Tablets (Generic Claritin) — Evan Phoenix](http://en.wikipedia.org/wiki/Loratadine)
@@ -2626,20 +2656,6 @@ Published: 06-14-2012
 - [Gratuitous Tank Battles — James Edward Gray II](http://gratuitoustankbattles.com/)
 - [Esoteric Programming Languages by David Morgan Marr — Chad Fowler](http://www.webring.org/hub/esolang?w=1920;rh=http%3A%2F%2Fwww%2Edangermouse%2Enet%2Fesoteric%2F;rd=1)
 - [Let Over Lambda — Chad Fowler](http://www.amazon.com/gp/product/1435712757/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1435712757)
-
-##RR Book Club: Working with Unix Processes with Jesse Storimer
-Published: 06-14-2012
-- [Practicing Ruby by Greg Brown — Avdi Grimm](https://devchat.tv/ruby-rogues/058-rr-book-club-working-with-unix-processes-with-jesse-storimer)
-- [Mantano Reader for Android — Avdi Grimm](https://play.google.com/store/apps/details?id=com.mantano.reader.android&hl=en)
-- [Typhoeus — James Edward Gray II](https://github.com/typhoeus/typhoeus)
-- [Drip — James Edward Gray II](https://github.com/seki/Drip)
-- [The DRb book — James Edward Gray II](http://en.wikibooks.org/wiki/Ruby_Programming/Standard_Library/DRb)
-- [RED — James Edward Gray II](http://www.imdb.com/title/tt1245526/?ref_=fn_al_tt_1)
-- [Podcasting A to Z — Charles Max Wood](http://podcastanswerman.com/atoz/)
-- [Brother Labeler — Charles Max Wood](http://www.amazon.com/gp/product/B002KT1ZX0/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002KT1ZX0)
-- [Getting Things Done by David Allen — Charles Max Wood](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280)
-- [USP Ruby Mailing List — Jesse Storimer](http://librelist.com/browser/usp.ruby/)
-- [Shush — Jesse Storimer](https://itunes.apple.com/us/app/shush/id289939916?mt=8)
 
 ##RR David Heinemeier Hansson
 Published: 06-08-2012
