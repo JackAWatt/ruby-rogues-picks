@@ -1,6 +1,32 @@
 # Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
 
+##RR Books That Aren't POODR
+Published: 01-20-2016
+- [Mark Manson: The Most Important Question of Your Life — Jessica Kerr](http://markmanson.net/question)
+- [Dan Luu: Normalization of Deviance in Software: How Completely Messed Up Practices Become Normal — Coraline Ada Ehmke](http://danluu.com/wat/)
+- [The Noun Project — Avdi Grimm](https://thenounproject.com/)
+- [Lies My Teacher Told Me: Everything Your American History Textbook Got Wrong by James W. Loewen — Avdi Grimm](http://www.amazon.com/gp/product/0743296281/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0743296281&linkCode=as2&tag=chamaxwoo-20&linkId=HKI7CFKQXBJ5DYZ6)
+- [CES — Charles Max Wood](https://www.cesweb.org/)
+- [Bill Buxton: Avoiding the Big Crash — Jessica Kerr](http://www.infoq.com/presentations/cumulative-software-design)
+
+##RR Migrating a Monolith to Microservices Via an Evolutionary Path with Mike Gehard
+Published: 01-13-2016
+- [LOWA Boots — Avdi Grimm](https://www.lowaboots.com/)
+- [Pearl’s Peril — David Brady](https://itunes.apple.com/us/app/pearls-peril/id594802437?mt=8)
+- [He Never Died — David Brady](http://www.imdb.com/title/tt2386404/)
+- [httplog — Coraline Ada Ehmke](https://github.com/trusche/httplog)
+- [Toxic Workers by Michael Housman and Dylan Minor — Coraline Ada Ehmke](http://www.hbs.edu/faculty/Publication%20Files/16-057_d45c0b4f-fa19-49de-8f1b-4b12fe054fea.pdf)
+- [The Unbeatable Squirrel Girl Vol. 1 by Ryan North — Jessica Kerr](http://www.amazon.com/The-Unbeatable-Squirrel-Girl-Vol/dp/0785197028)
+- [Hamilton (Original Broadway Cast Recording) — Jessica Kerr](https://itunes.apple.com/us/album/hamilton-original-broadway/id1025210938)
+- [MyFitnessPal — Charles Max Wood](https://www.myfitnesspal.com/)
+- [Run 10k — Charles Max Wood](http://felttip.com/run10k/)
+- [Pebble Time Steel — Charles Max Wood](https://www.pebble.com/pebble-time-steel-smartwatch-features)
+- [Aftershokz Bluez 2 — Charles Max Wood](http://aftershokz.com/products/bluez-2)
+- [FLUIDSTANCE — Mike Gehard](http://www.fluidstance.com/)
+- [The Elm Programming Language — Mike Gehard](http://elm-lang.org/)
+- [Kotlin — Mike Gehard](https://kotlinlang.org/)
+
 ##RR What Makes a Great Developer with Phil Spitler
 Published: 01-06-2016
 - [spitfire — Phil Spitler](https://github.com/spitfireio/)
@@ -3198,6 +3224,10 @@ Published: 09-22-2011
 - [Haters gonna HATEOAS — Steve Klabnik](http://timelessrepo.com/haters-gonna-hateoas)
 - [Execution in the Kingdom of Nouns — Steve Klabnik](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
 
+##Book Club Announcement: Smalltalk Best Practice Patterns with Kent Beck
+Published: 09-14-2011
+- [foo — Charles Max Wood](https://devchat.tv/ruby-rogues/book-club-announcement-smalltalk-best-practice-patterns-with-kent-beck)
+
 ##RR Object Oriented Programming in Rails with Jim Weirich
 Published: 09-14-2011
 - [RailsBridge Workshops — Josh Susser](http://wiki.railsbridge.org/projects/1/wiki/Workshops)
@@ -3210,10 +3240,6 @@ Published: 09-14-2011
 - [Institute of Awesome — Charles Max Wood](http://letsfreckle.com/institute-of-awesome/#day26)
 - [Bloons Tower Defense 4 — Charles Max Wood](http://ninjakiwi.com/Games/Tower-Defense/Play/Bloons-Tower-Defense-4.html)
 - [World of Goo HD — Charles Max Wood](http://click.linksynergy.com/fs-bin/click?id=tINTP47iIA8&offerid=146261.401301276&type=2&subid=0)
-
-##Book Club Announcement: Smalltalk Best Practice Patterns with Kent Beck
-Published: 09-14-2011
-- [foo — Charles Max Wood](https://devchat.tv/ruby-rogues/book-club-announcement-smalltalk-best-practice-patterns-with-kent-beck)
 
 ##RR Book Club: Exceptional Ruby with Avdi Grimm
 Published: 09-10-2011
