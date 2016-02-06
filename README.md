@@ -1,6 +1,17 @@
 #Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
 
+##RR Clearwater with Jamie Gaskins
+Published: 02-10-2016
+- [Contributor Covenant — Coraline Ada Ehmke](http://contributor-covenant.org/)
+- [Kaleidoscope — Coraline Ada Ehmke](http://www.kaleidoscopeapp.com/)
+- [LEGO Ideas - Lovelace & Babbage — Charles Max Wood](https://ideas.lego.com/projects/102740)
+- [Freelance Remote Conf — Charles Max Wood](https://allremoteconfs.com/freelance-2016)
+- [Ruby Remote Conf — Charles Max Wood](https://allremoteconfs.com/ruby-2016)
+- [RushMyPassport — Charles Max Wood](https://www.rushmypassport.com/)
+- [Primula Cold Brew Glass Carafe Iced Coffee Maker — Jamie Gaskins](http://www.amazon.com/gp/product/B00YBQ4XZC)
+- [JRuby — Jamie Gaskins](http://jruby.org/)
+
 ##RR Books That Aren't POODR
 Published: 01-20-2016
 - [Mark Manson: The Most Important Question of Your Life — Jessica Kerr](http://markmanson.net/question)
