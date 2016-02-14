@@ -1,6 +1,15 @@
 #Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
 
+##RR Parallella with Ray Hightower
+Published: 02-17-2016
+- [Refactoring Ruby with Monads — Coraline Ada Ehmke](http://codon.com/refactoring-ruby-with-monads)
+- [Ruby Rogues Episode #120: Book Club: Understanding Computation with Tom Stuart — Charles Max Wood](https://devchat.tv/ruby-rogues/120-rr-book-club-understanding-computation-with-tom-stuart)
+- [Learning to play the piano — Jessica Kerr](https://devchat.tv/ruby-rogues/247-rr-parallella-with-ray-hightower)
+- [Mogo Portable Seat — Charles Max Wood](http://www.amazon.com/gp/product/B00KQ1M1XM?psc=1&redirect=true&ref_=oh_aui_detailpage_o05_s00)
+- [Rob Pike: Concurrency Is Not Parallelism — Ray Hightower](https://www.youtube.com/watch?v=cN_DpYBzKso)
+- [Designing and Building Parallel Programs by Ian Foster — Ray Hightower](http://www-unix.mcs.anl.gov/~itf/dbpp/text/book.html)
+
 ##RR Clearwater with Jamie Gaskins
 Published: 02-10-2016
 - [Contributor Covenant — Coraline Ada Ehmke](http://contributor-covenant.org/)
@@ -2664,6 +2673,20 @@ Published: 06-16-2012
 - [Paper Tray Spacers  — Charles Max Wood](http://www.amazon.com/gp/product/B008BW3W0E/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B008BW3W0E)
 - [MyBook Hard Drive  — Charles Max Wood](http://www.amazon.com/gp/product/B007XFH3HS/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B007XFH3HS)
 
+##RR Book Club: Working with Unix Processes with Jesse Storimer
+Published: 06-14-2012
+- [Practicing Ruby by Greg Brown — Avdi Grimm](https://devchat.tv/ruby-rogues/058-rr-book-club-working-with-unix-processes-with-jesse-storimer)
+- [Mantano Reader for Android — Avdi Grimm](https://play.google.com/store/apps/details?id=com.mantano.reader.android&hl=en)
+- [Typhoeus — James Edward Gray II](https://github.com/typhoeus/typhoeus)
+- [Drip — James Edward Gray II](https://github.com/seki/Drip)
+- [The DRb book — James Edward Gray II](http://en.wikibooks.org/wiki/Ruby_Programming/Standard_Library/DRb)
+- [RED — James Edward Gray II](http://www.imdb.com/title/tt1245526/?ref_=fn_al_tt_1)
+- [Podcasting A to Z — Charles Max Wood](http://podcastanswerman.com/atoz/)
+- [Brother Labeler — Charles Max Wood](http://www.amazon.com/gp/product/B002KT1ZX0/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002KT1ZX0)
+- [Getting Things Done by David Allen — Charles Max Wood](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280)
+- [USP Ruby Mailing List — Jesse Storimer](http://librelist.com/browser/usp.ruby/)
+- [Shush — Jesse Storimer](https://itunes.apple.com/us/app/shush/id289939916?mt=8)
+
 ##RR Ruby Central with Evan Phoenix and Chad Fowler
 Published: 06-14-2012
 - [Loratdine Alergy Tablets (Generic Claritin) — Evan Phoenix](http://en.wikipedia.org/wiki/Loratadine)
@@ -2679,20 +2702,6 @@ Published: 06-14-2012
 - [Gratuitous Tank Battles — James Edward Gray II](http://gratuitoustankbattles.com/)
 - [Esoteric Programming Languages by David Morgan Marr — Chad Fowler](http://www.webring.org/hub/esolang?w=1920;rh=http%3A%2F%2Fwww%2Edangermouse%2Enet%2Fesoteric%2F;rd=1)
 - [Let Over Lambda — Chad Fowler](http://www.amazon.com/gp/product/1435712757/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1435712757)
-
-##RR Book Club: Working with Unix Processes with Jesse Storimer
-Published: 06-14-2012
-- [Practicing Ruby by Greg Brown — Avdi Grimm](https://devchat.tv/ruby-rogues/058-rr-book-club-working-with-unix-processes-with-jesse-storimer)
-- [Mantano Reader for Android — Avdi Grimm](https://play.google.com/store/apps/details?id=com.mantano.reader.android&hl=en)
-- [Typhoeus — James Edward Gray II](https://github.com/typhoeus/typhoeus)
-- [Drip — James Edward Gray II](https://github.com/seki/Drip)
-- [The DRb book — James Edward Gray II](http://en.wikibooks.org/wiki/Ruby_Programming/Standard_Library/DRb)
-- [RED — James Edward Gray II](http://www.imdb.com/title/tt1245526/?ref_=fn_al_tt_1)
-- [Podcasting A to Z — Charles Max Wood](http://podcastanswerman.com/atoz/)
-- [Brother Labeler — Charles Max Wood](http://www.amazon.com/gp/product/B002KT1ZX0/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002KT1ZX0)
-- [Getting Things Done by David Allen — Charles Max Wood](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280)
-- [USP Ruby Mailing List — Jesse Storimer](http://librelist.com/browser/usp.ruby/)
-- [Shush — Jesse Storimer](https://itunes.apple.com/us/app/shush/id289939916?mt=8)
 
 ##RR David Heinemeier Hansson
 Published: 06-08-2012
