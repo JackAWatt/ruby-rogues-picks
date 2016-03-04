@@ -1,6 +1,15 @@
 #Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
 
+##RR The Normalization of Deviance with Dan Luu
+Published: 03-02-2016
+- [octohatrack — Coraline Ada Ehmke](https://github.com/LABHR/octohatrack)
+- [Einstein's Relativity and the Quantum Revolution: Modern Physics for Non-Scientists — Avdi Grimm](http://www.audible.com/pd/Science-Technology/Einsteins-Relativity-and-the-Quantum-Revolution-Modern-Physics-for-Non-Scientists-2nd-Edition-Audiobook/B00D8J46DW/ref=a_search_c4_1_2_srTtl/181-7136436-5349741?qid=1455643926&sr=1-2)
+- [Real-World Relativity: The GPS Navigation System — Jessica Kerr](http://www.astronomy.ohio-state.edu/~pogge/Ast162/Unit5/gps.html)
+- [Katrina Owen: Here Be Dragons — Jessica Kerr](http://confreaks.tv/videos/bathruby2015-here-be-dragons)
+- [random tweet — Dan Luu](http://tweet.onerandom.com/)
+- [Profiling a warehouse-scale computer — Dan Luu](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44271.pdf)
+
 ##RR The Crystal Programming Language with Erik Michaels-Ober
 Published: 02-24-2016
 - [Easy Bash Prompt Generator — Jessica Kerr](http://ezprompt.net/)
