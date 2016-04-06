@@ -1,6 +1,49 @@
 # Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
 
+##RR Building/Scaling a Rails SaaS App with Derrick Reimer
+Published: 04-06-2016
+- [Teaching a local Ruby class — Avdi Grimm](https://devchat.tv/ruby-rogues/254-rr-building-scaling-a-rails-saas-app-with-derrick-reimer)
+- [HOW TO PRONOUNCE GIF! — David Brady](https://www.youtube.com/watch?v=MSJaSS_Zj0Y)
+- [Java Concurrency in Practice — Julia Evans](https://www.amazon.ca/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601)
+- [htop — Jessica Kerr](http://hisham.hm/htop/)
+- [RuboCop — Derrick Reimer](http://batsov.com/rubocop/)
+- [writegif — Derrick Reimer](https://www.npmjs.com/package/writegif)
+
+##RR Phoenix and Rails with Chris McCord
+Published: 03-30-2016
+- [Efficient State-based CRDTs by Delta-Mutation — Chris McCord](http://arxiv.org/abs/1410.2803)
+- [The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich by Timothy Ferriss — Avdi Grimm](http://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=sr_1_1?ie=UTF8&qid=1458668168&sr=8-1&keywords=4+hour+work+week)
+- [Jose Valim: Phoenix a web framework for the new web @ Lambda Days 2016 — Chris McCord](https://www.youtube.com/watch?v=MD3P7Qan3pw)
+- [Programming Phoenix: Productive |> Reliable |> Fast by Chris McCord, Bruce Tate, and José Valim — Chris McCord](https://pragprog.com/book/phoenix/programming-phoenix)
+- [The Teaching Company: How to Listen to and Understand Great Music — Jessica Kerr](http://www.amazon.com/The-Teaching-Company-UNDERSTAND-Complete/dp/1598032704)
+- [Flex ('Mancer) by Ferrett Steinmetz — Jessica Kerr](http://www.amazon.com/Flex-Mancer-Ferrett-Steinmetz-ebook/dp/B00JNPF4BS)
+- [Radical Candor — The Surprising Secret to Being a Good Boss | First Round Review — Jessica Kerr](https://www.youtube.com/watch?v=4yODalLQ2lM)
+
+##RR Feature Toggles with Pete Hodgson
+Published: 03-23-2016
+- [Deschutes Red Chair NWPA — Pete Hodgson](https://www.deschutesbrewery.com/beer/red-chair-nwpa/)
+- [Pete Hodgson: The Ultimate Traveler's Coffee Kit — Pete Hodgson](http://blog.thepete.net/blog/2015/06/21/the-ultimate-travelers-coffee-kit/)
+- [Architectural Decision Records — Pete Hodgson](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions)
+- [Concourse — Pete Hodgson](http://concourse.ci/)
+- [RailsBridge Installfest — Coraline Ada Ehmke](http://installfest.railsbridge.org/installfest/installfest)
+- [Cryptic Ruby Global Variables and Their Meanings — Coraline Ada Ehmke](http://jimneath.org/2010/01/04/cryptic-ruby-global-variables-and-their-meanings.html)
+
+##RR Automating Code Reviews with Mindaugas Mozūras
+Published: 03-16-2016
+- [Brandon Sanderson — Mindaugas Mozūras](http://brandonsanderson.com/)
+- [Dan McKinley: Choose Boring Technology — Mindaugas Mozūras](http://mcfunley.com/choose-boring-technology)
+- [RescueTime — Mindaugas Mozūras](https://www.rescuetime.com/)
+- [Ruby Remote Conf — Charles Max Wood](https://allremoteconfs.com/ruby-2016)
+- [Freelance Remote Conf — Charles Max Wood](https://allremoteconfs.com/freelance-2016)
+- [CircleCI — Charles Max Wood](https://circleci.com/)
+- [AddThis — Charles Max Wood](http://www.addthis.com/)
+- [AppSumo — Charles Max Wood](http://www.appsumo.com/130-ways-get-traffic/)
+- [Erik Trautman: Why Learning to Code is So Damn Hard — Coraline Ada Ehmke](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+- [Frinkiac — Coraline Ada Ehmke](https://frinkiac.com/)
+- [Kenneth Reitz: MentalHealthError: an exception occurred. — Jessica Kerr](http://www.kennethreitz.org/essays/mentalhealtherror-an-exception-occurred)
+- [Manic Panic Hair Dye — Jessica Kerr](https://www.manicpanic.com/hair/hair-color?limit=all)
+
 ##RR Programming Language Evolution and Design with Gilad Bracha
 Published: 03-09-2016
 - [Umberto Eco — Gilad Bracha](http://www.umbertoeco.com/en/)
@@ -2702,6 +2745,20 @@ Published: 06-16-2012
 - [1Password — James Edward Gray II](https://agilebits.com/products/1password)
 - [Emacs — James Edward Gray II](http://www.gnu.org/software/emacs/)
 
+##RR Book Club: Working with Unix Processes with Jesse Storimer
+Published: 06-14-2012
+- [Shush — Jesse Storimer](https://itunes.apple.com/us/app/shush/id289939916?mt=8)
+- [USP Ruby Mailing List — Jesse Storimer](http://librelist.com/browser/usp.ruby/)
+- [Getting Things Done by David Allen — Charles Max Wood](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280)
+- [Brother Labeler — Charles Max Wood](http://www.amazon.com/gp/product/B002KT1ZX0/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002KT1ZX0)
+- [Podcasting A to Z — Charles Max Wood](http://podcastanswerman.com/atoz/)
+- [RED — James Edward Gray II](http://www.imdb.com/title/tt1245526/?ref_=fn_al_tt_1)
+- [The DRb book — James Edward Gray II](http://en.wikibooks.org/wiki/Ruby_Programming/Standard_Library/DRb)
+- [Drip — James Edward Gray II](https://github.com/seki/Drip)
+- [Typhoeus — James Edward Gray II](https://github.com/typhoeus/typhoeus)
+- [Mantano Reader for Android — Avdi Grimm](https://play.google.com/store/apps/details?id=com.mantano.reader.android&hl=en)
+- [Practicing Ruby by Greg Brown — Avdi Grimm](https://devchat.tv/ruby-rogues/058-rr-book-club-working-with-unix-processes-with-jesse-storimer)
+
 ##RR Ruby Central with Evan Phoenix and Chad Fowler
 Published: 06-14-2012
 - [SimpleForm — Josh Susser](http://simpleform.com/)
@@ -2717,20 +2774,6 @@ Published: 06-14-2012
 - [Diablo III — James Edward Gray II](http://www.amazon.com/gp/product/B00178630A/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00178630A)
 - [RubyLVM — Evan Phoenix](https://devchat.tv/ruby-rogues/057-rr-rubycentral)
 - [Loratdine Alergy Tablets (Generic Claritin) — Evan Phoenix](http://en.wikipedia.org/wiki/Loratadine)
-
-##RR Book Club: Working with Unix Processes with Jesse Storimer
-Published: 06-14-2012
-- [Shush — Jesse Storimer](https://itunes.apple.com/us/app/shush/id289939916?mt=8)
-- [USP Ruby Mailing List — Jesse Storimer](http://librelist.com/browser/usp.ruby/)
-- [Getting Things Done by David Allen — Charles Max Wood](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280)
-- [Brother Labeler — Charles Max Wood](http://www.amazon.com/gp/product/B002KT1ZX0/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002KT1ZX0)
-- [Podcasting A to Z — Charles Max Wood](http://podcastanswerman.com/atoz/)
-- [RED — James Edward Gray II](http://www.imdb.com/title/tt1245526/?ref_=fn_al_tt_1)
-- [The DRb book — James Edward Gray II](http://en.wikibooks.org/wiki/Ruby_Programming/Standard_Library/DRb)
-- [Drip — James Edward Gray II](https://github.com/seki/Drip)
-- [Typhoeus — James Edward Gray II](https://github.com/typhoeus/typhoeus)
-- [Mantano Reader for Android — Avdi Grimm](https://play.google.com/store/apps/details?id=com.mantano.reader.android&hl=en)
-- [Practicing Ruby by Greg Brown — Avdi Grimm](https://devchat.tv/ruby-rogues/058-rr-book-club-working-with-unix-processes-with-jesse-storimer)
 
 ##RR David Heinemeier Hansson
 Published: 06-08-2012
