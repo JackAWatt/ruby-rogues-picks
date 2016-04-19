@@ -1,6 +1,16 @@
 # Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
 
+##RR What's Missing? with Greg Wilson
+Published: 04-13-2016
+- [moonconf — Jessica Kerr](http://moonconf.org/)
+- [Félienne Hermans — Avdi Grimm](http://www.felienne.com/)
+- [Feerless — Coraline Ada Ehmke](https://feerless.us/)
+- [HTML element standards — Jessica Kerr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [Techies — Greg Wilson](http://www.techiesproject.com/)
+- [Scratch — Greg Wilson](https://scratch.mit.edu/)
+- [Software Tools by Brian W. Kernighan and P. J. Plauger — Greg Wilson](http://www.amazon.com/Software-Tools-Brian-W-Kernighan/dp/020103669X)
+
 ##RR Building/Scaling a Rails SaaS App with Derrick Reimer
 Published: 04-06-2016
 - [Teaching a local Ruby class — Avdi Grimm](https://devchat.tv/ruby-rogues/254-rr-building-scaling-a-rails-saas-app-with-derrick-reimer)
@@ -3316,6 +3326,10 @@ Published: 09-22-2011
 - [Klout — Josh Susser](http://klout.com/)
 - [Confreaks — Josh Susser](http://confreaks.net/events/gogaruco2011)
 
+##Book Club Announcement: Smalltalk Best Practice Patterns with Kent Beck
+Published: 09-14-2011
+- [foo — Charles Max Wood](https://devchat.tv/ruby-rogues/book-club-announcement-smalltalk-best-practice-patterns-with-kent-beck)
+
 ##RR Object Oriented Programming in Rails with Jim Weirich
 Published: 09-14-2011
 - [World of Goo HD — Charles Max Wood](http://click.linksynergy.com/fs-bin/click?id=tINTP47iIA8&offerid=146261.401301276&type=2&subid=0)
@@ -3328,10 +3342,6 @@ Published: 09-14-2011
 - [The Unix System Programming with Ruby list — James Edward Gray II](http://www.ruby-forum.com/topic/2535619)
 - [Ryan Tomayko's Blog Post on Unicorn — James Edward Gray II](http://tomayko.com/writings/unicorn-is-unix)
 - [RailsBridge Workshops — Josh Susser](http://wiki.railsbridge.org/projects/1/wiki/Workshops)
-
-##Book Club Announcement: Smalltalk Best Practice Patterns with Kent Beck
-Published: 09-14-2011
-- [foo — Charles Max Wood](https://devchat.tv/ruby-rogues/book-club-announcement-smalltalk-best-practice-patterns-with-kent-beck)
 
 ##RR Book Club: Exceptional Ruby with Avdi Grimm
 Published: 09-10-2011
