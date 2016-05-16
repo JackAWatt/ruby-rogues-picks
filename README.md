@@ -1,5 +1,15 @@
-#Ruby Rogues Pick Links
+# Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
+
+##RR What's Missing? with Greg Wilson
+Published: 04-13-2016
+- [moonconf — Jessica Kerr](http://moonconf.org/)
+- [Félienne Hermans — Avdi Grimm](http://www.felienne.com/)
+- [Feerless — Coraline Ada Ehmke](https://feerless.us/)
+- [HTML element standards — Jessica Kerr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+- [Techies — Greg Wilson](http://www.techiesproject.com/)
+- [Scratch — Greg Wilson](https://scratch.mit.edu/)
+- [Software Tools by Brian W. Kernighan and P. J. Plauger — Greg Wilson](http://www.amazon.com/Software-Tools-Brian-W-Kernighan/dp/020103669X)
 
 ##RR Building/Scaling a Rails SaaS App with Derrick Reimer
 Published: 04-06-2016
@@ -1168,7 +1178,7 @@ Published: 07-02-2014
 - [Hush (Remastered) Yo-Yo Ma — James Edward Gray II](https://itunes.apple.com/us/album/hush-remastered/id435113565)
 - [Shields.io — James Edward Gray II](http://shields.io/)
 - [Prelude For Emacs — David Brady](https://github.com/bbatsov/prelude)
-- [Charles Web Debugging Proxy   — David Brady](http://www.charlesproxy.com)
+- [Charles Web Debugging Proxy   — David Brady](http://www.charlesproxy.com)
 - [Design for Hackers: Reverse Engineering Beauty by David Kadavy — Saron Yitbarek](http://www.amazon.com/gp/product/1119998956/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1119998956&linkCode=as2&tag=chamaxwoo-20&linkId=7QCMZNS3FF4XTYJS)
 - [Slim — Avdi Grimm](http://slim-lang.com/)
 - [Apprenticeship Patterns By Dave Hoover and Adewale Oshineye — Coraline Ada Ehmke](http://shop.oreilly.com/product/9780596518387.do)
@@ -1461,7 +1471,7 @@ Published: 02-19-2014
 - [The do Podcast — Charles Max Wood](http://dopodcast.org/)
 - [Antibiotics — Charles Max Wood](https://devchat.tv/ruby-rogues/144-rr-passion)
 - [jq — Avdi Grimm](http://stedolan.github.io/jq/)
-- [PostgreSQL 9.3  — Avdi Grimm](http://www.postgresql.org/)
+- [PostgreSQL 9.3  — Avdi Grimm](http://www.postgresql.org/)
 - [PBS shows on Apple TV — Josh Susser](http://www.pbs.org/appletv/appletv/home/)
 - [Joseph Campbell and the Power of Myth — Josh Susser](http://en.wikipedia.org/wiki/The_Power_of_Myth)
 
@@ -1660,7 +1670,7 @@ Published: 11-13-2013
 - [HelloFax — Avdi Grimm](https://www.hellofax.com/)
 - [HelloSign — Avdi Grimm](https://www.hellosign.com/)
 - [Vegasaur — Avdi Grimm](http://vegasaur.com/Vegasaur)
-- [MonMount Dual LCD Monitor Stand Desk Clamp  — Charles Max Wood](http://www.amazon.com/gp/product/B00AMNX0F2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AMNX0F2&linkCode=as2&tag=chamaxwoo-20)
+- [MonMount Dual LCD Monitor Stand Desk Clamp  — Charles Max Wood](http://www.amazon.com/gp/product/B00AMNX0F2/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AMNX0F2&linkCode=as2&tag=chamaxwoo-20)
 - [A standing desk for $22 — Charles Max Wood](http://iamnotaprogrammer.com/Ikea-Standing-desk-for-22-dollars.html)
 - [The First 20 Hours - How to Learn Anything: Josh Kaufman at TEDxCSU — Katrina Owen](http://www.youtube.com/watch?v=5MgBikgcWnY)
 
@@ -1757,7 +1767,7 @@ Published: 10-02-2013
 - [Tweetbot — Charles Max Wood](http://tapbots.com/software/tweetbot/)
 - [ShareMouse — Charles Max Wood](http://www.keyboard-and-mouse-sharing.com/)
 - [Michael Vey — Charles Max Wood](http://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=micheal%20vey)
-- [The Freelancers’ Show 081: Book Club - Book Yourself Solid with Michael Port  — Charles Max Wood](http://www.freelancersshow.com/the-freelancers-show-081-book-club-book-yourself-solid-with-michael-port)
+- [The Freelancers’ Show 081: Book Club - Book Yourself Solid with Michael Port  — Charles Max Wood](http://www.freelancersshow.com/the-freelancers-show-081-book-club-book-yourself-solid-with-michael-port)
 - [Book Yourself Solid: The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling by Michael Port — Charles Max Wood](http://www.amazon.com/gp/product/0470643471/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470643471&linkCode=as2&tag=chamaxwoo-20)
 - [A Capella Science - Bohemian Gravity! — Josh Susser](http://www.youtube.com/watch?v=2rjbtsX7twc)
 - [James' GoGaRuCo Talk — Josh Susser](http://www.youtube.com/watch?v=Yfay4cM5Qxk)
@@ -1810,7 +1820,7 @@ Published: 09-11-2013
 - [DocRaptor — Avdi Grimm](http://docraptor.com/)
 - [XMLStarlet Command Line XML Toolkit — Avdi Grimm](http://xmlstar.sourceforge.net/)
 - [Evernote — Charles Max Wood](http://evernote.com/)
-- [The MacSparky Paperless Field Guide by David Sparks   — Charles Max Wood](http://macsparky.com/paperless/)
+- [The MacSparky Paperless Field Guide by David Sparks   — Charles Max Wood](http://macsparky.com/paperless/)
 - [Fujisu ScanSnap S1300i — Charles Max Wood](http://www.amazon.com/gp/product/B008HBFADQ/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008HBFADQ&linkCode=as2&tag=chamaxwoo-20)
 - [Radiolab — Kenneth Kalmer](http://www.radiolab.org/series/podcasts/)
 - [99% Invisible — Kenneth Kalmer](http://99percentinvisible.org/)
@@ -2163,7 +2173,7 @@ Published: 03-27-2013
 - [Raspberry Jamboree 2013: Amy Mather - Conway's Game Of Life — James Edward Gray II](http://www.youtube.com/watch?feature=player_embedded&v=a35XINnYFtA)
 - [Homeschooling Makes Me Happy: Logan LaPlante at TEDxUniversityofNevada — James Edward Gray II](http://www.youtube.com/watch?hl=en&gl=US&client=mv-google&v=h11u3vtcpaY&nomobile=1)
 - [Adam Sanderson: Getting to Know the Ruby Standard Library - TSort — James Edward Gray II](http://endofline.wordpress.com/2010/12/22/ruby-standard-library-tsort/)
-- ["The Ancestor" by Darlingside   — Davy Stevenson](http://vimeo.com/50507428)
+- ["The Ancestor" by Darlingside   — Davy Stevenson](http://vimeo.com/50507428)
 - [reveal.js - The HTML Presentation Framework — Davy Stevenson](http://lab.hakim.se/reveal-js/)
 - [The dRuby Book: Distributed and Parallel Computing with Ruby by Masatoshi Seki (Translated by Makoto Inoue) — Davy Stevenson](http://pragprog.com/book/sidruby/the-druby-book)
 - [Amazon S3 — Charles Max Wood](http://aws.amazon.com/s3/)
@@ -2215,9 +2225,9 @@ Published: 03-06-2013
 - [TOML — Josh Susser](https://github.com/mojombo/toml)
 - [If you ever feel alone in this...: Darius "Bubs" Monsef — Josh Susser](http://bubs.co/if-you-ever-feel-alone-in-this)
 - [Jeff Goldblum's ‘80s work — Josh Susser](https://devchat.tv/ruby-rogues/095-rr-people-and-team-dynamics-with-joe-obrien)
-- [Earth Girls Are Easy  — Josh Susser](http://www.imdb.com/title/tt0097257/)
-- [Vibes  — Josh Susser](http://www.imdb.com/title/tt0096378/)
-- [The Adventures of Buckaroo Banzai Across the 8th Dimension  — Josh Susser](http://www.imdb.com/title/tt0086856/)
+- [Earth Girls Are Easy  — Josh Susser](http://www.imdb.com/title/tt0097257/)
+- [Vibes  — Josh Susser](http://www.imdb.com/title/tt0096378/)
+- [The Adventures of Buckaroo Banzai Across the 8th Dimension  — Josh Susser](http://www.imdb.com/title/tt0086856/)
 - [Mob Programming — Katrina Owen](http://mobprogramming.org)
 - [The Up-Goer Five Text Editor — Katrina Owen](http://splasho.com/upgoer5/)
 - [xkcd: Up Goer Five — Katrina Owen](http://xkcd.com/1133/)
@@ -2243,7 +2253,7 @@ Published: 02-27-2013
 
 ##RR Security Exploits with Patrick McKenzie
 Published: 02-20-2013
-- [Estimation is Evil: Overcoming the Estimation Obsession by Ron Jeffries  — James Edward Gray II](http://pragprog.com/magazines/2013-02/estimation-is-evil)
+- [Estimation is Evil: Overcoming the Estimation Obsession by Ron Jeffries  — James Edward Gray II](http://pragprog.com/magazines/2013-02/estimation-is-evil)
 - [Guru Meditation: Avoiding the Infinite Abyss by Andy Hunt — James Edward Gray II](http://pragprog.com/magazines/2010-11/guru-meditation)
 - [Stripe: Checkout — Josh Susser](https://stripe.com/docs/checkout)
 - [Star Trek & The City — Josh Susser](https://twitter.com/trekandthecity)
@@ -2329,7 +2339,7 @@ Published: 01-09-2013
 
 ##RR Learning From The Past with Arlen Walker
 Published: 01-02-2013
-- [The Verge at work: backing up your brain (How I use Evernote as a memory tool for deep  reading, writing, and research) by Thomas Houston — James Edward Gray II](http://www.theverge.com/2012/12/10/3743350/verge-at-work-backing-up-your-brain-evernote)
+- [The Verge at work: backing up your brain (How I use Evernote as a memory tool for deep  reading, writing, and research) by Thomas Houston — James Edward Gray II](http://www.theverge.com/2012/12/10/3743350/verge-at-work-backing-up-your-brain-evernote)
 - [solnic / virtus — James Edward Gray II](https://github.com/solnic/virtus)
 - [tcrayford / Values — James Edward Gray II](https://github.com/tcrayford/Values)
 - [Daemon by Daniel Suarez — Katrina Owen](http://www.amazon.com/gp/product/0451228731/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0451228731)
@@ -2388,8 +2398,8 @@ Published: 12-12-2012
 - [7 Dwarves — Avdi Grimm](http://movies.netflix.com/WiMovie/70044524?strkid=1890892913_0_0&trkid=222336&movieid=70044524)
 - [Oversized Low-Profile Creeper — Charles Max Wood](http://www.harborfreight.com/oversized-low-profile-creeper-69094.html)
 - [GORUCO — Bryan Helmkamp](http://goruco.com/)
-- [brakeman  — Bryan Helmkamp](https://github.com/presidentbeef/brakeman)
-- [Floor Jack with Rapid Pump, 2.5 Ton  — Charles Max Wood](http://www.harborfreight.com/floor-jack-with-rapid-pump-25-ton-heavy-duty-steel-68049.html)
+- [brakeman  — Bryan Helmkamp](https://github.com/presidentbeef/brakeman)
+- [Floor Jack with Rapid Pump, 2.5 Ton  — Charles Max Wood](http://www.harborfreight.com/floor-jack-with-rapid-pump-25-ton-heavy-duty-steel-68049.html)
 
 ##RR Vagrant with Michael Ries
 Published: 12-05-2012
@@ -2424,7 +2434,7 @@ Published: 11-28-2012
 Published: 11-21-2012
 - [iTunes Match — James Edward Gray II](https://devchat.tv/ruby-rogues/080-rr-practical-metaprogramming-with-steven-harms)
 - [harukizaemon / hamster — James Edward Gray II](https://devchat.tv/ruby-rogues/080-rr-practical-metaprogramming-with-steven-harms)
-- [New Media Expo 2013 (Discount code Wood20)  — Charles Max Wood](https://devchat.tv/ruby-rogues/080-rr-practical-metaprogramming-with-steven-harms)
+- [New Media Expo 2013 (Discount code Wood20)  — Charles Max Wood](https://devchat.tv/ruby-rogues/080-rr-practical-metaprogramming-with-steven-harms)
 - [The Ruby Object Model and Metaprogramming by Dave Thomas — Charles Max Wood](https://devchat.tv/ruby-rogues/080-rr-practical-metaprogramming-with-steven-harms)
 - [Social Engagement — Steven Harms](https://devchat.tv/ruby-rogues/080-rr-practical-metaprogramming-with-steven-harms)
 - [GIFL — Steven Harms](https://devchat.tv/ruby-rogues/080-rr-practical-metaprogramming-with-steven-harms)
@@ -2510,7 +2520,7 @@ Published: 10-17-2012
 - [JSMin isn't welcome on Google Code — Chris Wilson](http://wonko.com/post/jsmin-isnt-welcome-on-google-code)
 - [The Kitten Cam — David Brady](http://www.animalplanet.com/tv-shows/too-cute/games-more/kitten-cam.htm)
 - [Cards Against Humanity — David Brady](http://cardsagainsthumanity.com/)
-- [Tröegs Troegenator  — Avdi Grimm](http://www.troegs.com/our_brews/troegenator_double_bock.aspx)
+- [Tröegs Troegenator  — Avdi Grimm](http://www.troegs.com/our_brews/troegenator_double_bock.aspx)
 - [Tanker Desks — Avdi Grimm](https://devchat.tv/ruby-rogues/075-rr-open-source-licenses)
 - [Coderetreat — Josh Susser](http://coderetreat.org/)
 - [LicenseFinder — Josh Susser](https://github.com/pivotal/LicenseFinder)
@@ -2560,7 +2570,7 @@ Published: 09-28-2012
 ##RR Zero Downtime Deploys with Pedro Belo
 Published: 09-24-2012
 - [Dabblers and Blowhards — Avdi Grimm](http://www.idlewords.com/2005/04/dabblers_and_blowhards.htm)
-- [The Might Be Giants - Here Come the ABCs, Here Come the 123s and Here Comes Science  — Avdi Grimm](http://www.amazon.com/Here-Come-123s-Might-Giants/dp/B000VDDCLK)
+- [The Might Be Giants - Here Come the ABCs, Here Come the 123s and Here Comes Science  — Avdi Grimm](http://www.amazon.com/Here-Come-123s-Might-Giants/dp/B000VDDCLK)
 - [Service-oriented Songkick — James Edward Gray II](http://www.songkick.com/devblog/2012/07/27/service-oriented-songkick/)
 - [Sick Science! — James Edward Gray II](http://www.youtube.com/course?list=ECC02CFDE5690E4010)
 - [iPhone 5 — Josh Susser](http://www.apple.com/iphone/)
@@ -2582,18 +2592,18 @@ Published: 09-21-2012
 - [The Hunger Games — James Edward Gray II](http://movies.netflix.com/WiMovie/The_Hunger_Games/70206672?locale=en-US)
 - [SCRIPT shell command — James Edward Gray II](http://ultra.pr.erau.edu/~jaffem/classes/cs125/script.htm)
 - [Shell Scripts Through Alfred — James Edward Gray II](http://www.youtube.com/watch?v=bUZvgVgaYs)
-- [The CHECKS Pattern Language of Information Integrity by Ward Cunningham — Avdi Grimm](http://c2.com/ppr/checks.html)
+- [The CHECKS Pattern Language of Information Integrity by Ward Cunningham — Avdi Grimm](http://c2.com/ppr/checks.html)
 - [Null Object - Something for Nothing by Kevlin Henney — Avdi Grimm](http://www.two-sdg.demon.co.uk/curbralan/papers/europlop/NullObject.pdf)
 - [The Null Object Pattern by Bobby Woolf — Avdi Grimm](http://www.cs.oberlin.edu/~jwalker/refs/woolf.ps)
 - [rspec-given — David Brady](https://github.com/jimweirich/rspec-given)
 
 ##RR Therapeutic Refactoring with Katrina Owen
 Published: 09-05-2012
-- [Rupa/z  — Katrina Owen](http://github.com/rupa/z)
+- [Rupa/z  — Katrina Owen](http://github.com/rupa/z)
 - [Practical Object Oriented Design in Ruby by Sandi Metz — Katrina Owen](http://www.amazon.com/gp/product/0321721330/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321721330)
 - [The Little Schemer by Daniel P. Friedman — Katrina Owen](http://www.amazon.com/gp/product/0262560992/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0262560992)
 - [Pebblestack.org — Katrina Owen](http://pebblestack.org/)
-- [XUnit Test Patterns by Gerard Meszaros  — Avdi Grimm](http://www.amazon.com/gp/product/0131495054/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0131495054)
+- [XUnit Test Patterns by Gerard Meszaros  — Avdi Grimm](http://www.amazon.com/gp/product/0131495054/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0131495054)
 - [Mei Tai Child Carrier — Avdi Grimm](http://www.amazon.com/gp/product/B004CSLO74/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004CSLO74)
 - [Fontsquirrel — Avdi Grimm](http://www.fontsquirrel.com/)
 - [Hashrocket Lunch and Learn Video - Tests, Mocks, Dependency Injections - Sandi Metz — James Edward Gray II](http://vimeo.com/48106365)
@@ -2606,7 +2616,7 @@ Published: 09-05-2012
 
 ##RR Book Club: Growing Object Oriented Software Guided by Tests with Steve Freeman and Nat Pryce
 Published: 08-24-2012
-- [Full Ack, Doc 1, Doc 2  — James Edward Gray II](http://nschum.de/src/emacs/full-ack/)
+- [Full Ack, Doc 1, Doc 2  — James Edward Gray II](http://nschum.de/src/emacs/full-ack/)
 - [Codea (iOS) — Nat Pryce](http://click.linksynergy.com/link?id=olGJBdaco3U&offerid=146261.439571171&type=2&murl=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fcodea%2Fid439571171%3Fuo%3D5)
 - [Atul Gawande — Steve Freeman](http://gawande.com/)
 - [Raspberry PI — Steve Freeman](http://www.raspberrypi.org/)
@@ -2617,7 +2627,7 @@ Published: 08-24-2012
 
 ##RR Gary Bernhardt's Testing Style
 Published: 08-21-2012
-- [Therapeutic Refactoring - Katrina Owen  — James Edward Gray II](http://www.confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
+- [Therapeutic Refactoring - Katrina Owen  — James Edward Gray II](http://www.confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
 - [An Conference — Gary Bernhardt](http://anconf.com)
 - [VT100 Escape Codes — Gary Bernhardt](http://ascii-table.com/ansi-escape-sequences-vt-100.php)
 - [Bones (Netflix) — Charles Max Wood](http://movies.netflix.com/WiMovie/Bones/70136123?trkid=2361637)
@@ -2628,7 +2638,7 @@ Published: 08-21-2012
 - [Charity Navigator — David Brady](http://www.charitynavigator.org/)
 - [Stone IPA — Avdi Grimm](http://www.stonebrew.com/ipa/)
 - [The Gang of Four is Wrong and You Don't Understand Delegation by Jim Gay — Avdi Grimm](http://www.saturnflyer.com/blog/jim/2012/07/06/the-gang-of-four-is-wrong-and-you-dont-understand-delegation/)
-- [Therapeutic Refactoring - Katrina Owen  — Avdi Grimm](http://www.confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
+- [Therapeutic Refactoring - Katrina Owen  — Avdi Grimm](http://www.confreaks.com/videos/1071-cascadiaruby2012-therapeutic-refactoring)
 
 ##RR Rails Bridge with Sarah Mei
 Published: 08-14-2012
@@ -2666,7 +2676,7 @@ Published: 08-01-2012
 - [Smooth Hoperator - Stoudts Brewing Company (Beer Advocate) — Avdi Grimm](http://beeradvocate.com/beer/profile/394/36670/)
 - [Amazon Instant Video — James Edward Gray II](http://www.amazon.com/Instant-Video/b?ie=UTF8&node=2858778011)
 - [Mac OS X 10.8 Ars Review — James Edward Gray II](http://arstechnica.com/apple/2012/07/os-x-10-8/)
-- [Tenderlove - Literal Symbol Array  — Josh Susser](https://github.com/tenderlove/psych/issues/12)
+- [Tenderlove - Literal Symbol Array  — Josh Susser](https://github.com/tenderlove/psych/issues/12)
 - [Compass CSS Framework — Josh Susser](http://compass-style.org/)
 - [iStock Photo — Charles Max Wood](http://www.istockphoto.com/)
 - [Google Image Search — Charles Max Wood](http://images.google.com/)
@@ -2692,7 +2702,7 @@ Published: 07-12-2012
 - [Bell's Oberon Ale — Avdi Grimm](http://www.bellsbeer.com/brands/8-Oberon%20Ale)
 - [Clicky — Avdi Grimm](http://getclicky.com/)
 - [Monitor Arm — Charles Max Wood](http://www.amazon.com/gp/product/B00358RIRC/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00358RIRC)
-- [Walter E. Williams  — Charles Max Wood](http://spectator.org/people/walter-e-williams/blogs)
+- [Walter E. Williams  — Charles Max Wood](http://spectator.org/people/walter-e-williams/blogs)
 - [Check Your Engine Oil — Charles Max Wood](https://devchat.tv/ruby-rogues/062-rr-monitoring-with-joseph-ruscio)
 - [Monitor Lizard — Josh Susser](https://devchat.tv/ruby-rogues/062-rr-monitoring-with-joseph-ruscio)
 - [Golden Gate Ruby Conference — Josh Susser](http://gogaruco.com/)
@@ -2707,7 +2717,7 @@ Published: 07-12-2012
 ##RR Domain Driven Design (DDD) with David Laribee
 Published: 07-01-2012
 - [@RosiesWWII — Avdi Grimm](https://twitter.com/RosiesWWII)
-- [The Ruby Way by Hal Fulton  — Avdi Grimm](http://www.amazon.com/gp/product/0672320835/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0672320835 )
+- [The Ruby Way by Hal Fulton  — Avdi Grimm](http://www.amazon.com/gp/product/0672320835/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0672320835 )
 - [Handlebars.js — Charles Max Wood](http://handlebarsjs.com/)
 - [Daily Sudoku — Charles Max Wood](http://www.dailysudoku.com/sudoku/)
 - [@realtimewwii — Avdi Grimm](https://twitter.com/realtimewwii/)
@@ -2730,18 +2740,18 @@ Published: 06-23-2012
 - [Dragon Tattoo Trilogy — James Edward Gray II](https://devchat.tv/ruby-rogues/rr-60-solid-with-jim-weirich)
 - [Dungeon Defenders — James Edward Gray II](http://dungeondefenders.com/)
 - [RubyMotion — Jim Weirich](http://www.rubymotion.com/)
-- [Song of Fire and Ice  — Jim Weirich](http://www.amazon.com/gp/product/0553573403/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0553573403)
+- [Song of Fire and Ice  — Jim Weirich](http://www.amazon.com/gp/product/0553573403/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0553573403)
 - [YouTube - Pink 5 — Jim Weirich](http://www.youtube.com/playlist?list=PLA141CBEC9750F9BC&feature=plcp)
 
 ##RR Security with Rein Henrichs
 Published: 06-16-2012
 - [John Scalzi's recipe for Schadenfreude Pie — Avdi Grimm](http://whatever.scalzi.com/2006/09/26/how-to-make-a-schadenfreude-pie/)
-- [MyBook Hard Drive  — Charles Max Wood](http://www.amazon.com/gp/product/B007XFH3HS/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B007XFH3HS)
-- [Paper Tray Spacers  — Charles Max Wood](http://www.amazon.com/gp/product/B008BW3W0E/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B008BW3W0E)
+- [MyBook Hard Drive  — Charles Max Wood](http://www.amazon.com/gp/product/B007XFH3HS/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B007XFH3HS)
+- [Paper Tray Spacers  — Charles Max Wood](http://www.amazon.com/gp/product/B008BW3W0E/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B008BW3W0E)
 - [LastPass — Avdi Grimm](https://lastpass.com/)
 - [Pronunciation Manual on Youtube — Rein Henrichs](http://www.youtube.com/user/PronunciationManual)
 - [ZipKin — Rein Henrichs](https://github.com/twitter/zipkin)
-- [Playing Shakespeare  — Rein Henrichs](http://www.amazon.com/gp/product/B001O7R75O/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001O7R75O)
+- [Playing Shakespeare  — Rein Henrichs](http://www.amazon.com/gp/product/B001O7R75O/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001O7R75O)
 - [1Password — James Edward Gray II](https://agilebits.com/products/1password)
 - [Emacs — James Edward Gray II](http://www.gnu.org/software/emacs/)
 
@@ -2762,7 +2772,7 @@ Published: 06-14-2012
 ##RR Ruby Central with Evan Phoenix and Chad Fowler
 Published: 06-14-2012
 - [SimpleForm — Josh Susser](http://simpleform.com/)
-- [Legend of Korra  — Josh Susser](http://itunes.apple.com/us/tv-season/the-legend-of-korra-vol.-1/id511441792?uo=4)
+- [Legend of Korra  — Josh Susser](http://itunes.apple.com/us/tv-season/the-legend-of-korra-vol.-1/id511441792?uo=4)
 - [Hunter's Education — David Brady](https://devchat.tv/ruby-rogues/057-rr-rubycentral)
 - [Trap and Skeet Shooting in San Francisco — David Brady](https://devchat.tv/ruby-rogues/057-rr-rubycentral)
 - [Mosin Nagant — David Brady](http://en.wikipedia.org/wiki/Mosin%E2%80%93Nagant)
@@ -2778,15 +2788,15 @@ Published: 06-14-2012
 ##RR David Heinemeier Hansson
 Published: 06-08-2012
 - [alanturingday.com on github — Josh Susser](https://github.com/joshsusser/alanturingday)
-- [Alan Turing  — Josh Susser](http://en.wikipedia.org/wiki/Alan_Turing)
+- [Alan Turing  — Josh Susser](http://en.wikipedia.org/wiki/Alan_Turing)
 - [alanturingday.com — Josh Susser](http://alanturingday.com/)
 - [Thank you, David! — Avdi Grimm](https://devchat.tv/ruby-rogues/056-rr-david-heinemeier-hansson)
-- [Skyrim  — Charles Max Wood](http://www.amazon.com/gp/product/B004HYIAPM/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004HYIAPM)
+- [Skyrim  — Charles Max Wood](http://www.amazon.com/gp/product/B004HYIAPM/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004HYIAPM)
 - [MindMeister — Charles Max Wood](http://www.mindmeister.com/?r=1218)
-- [Magic Piano  — David Brady](http://click.linksynergy.com/fs-bin/click?id=olGJBdaco3U&offerid=146261.421254504&type=2&subid=0)
+- [Magic Piano  — David Brady](http://click.linksynergy.com/fs-bin/click?id=olGJBdaco3U&offerid=146261.421254504&type=2&subid=0)
 - [Mad Men — David Heinemeier Hansson](http://www.imdb.com/title/tt0804503/)
 - [Game of Thrones — David Heinemeier Hansson](http://www.imdb.com/title/tt0944947/?ref_=nv_sr_1)
-- [Apple TV  — David Heinemeier Hansson](http://www.amazon.com/gp/product/B007I5JT4S/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B007I5JT4S)
+- [Apple TV  — David Heinemeier Hansson](http://www.amazon.com/gp/product/B007I5JT4S/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B007I5JT4S)
 - [Textmate 1 — David Heinemeier Hansson](http://macromates.com/)
 - [Peepcode Play by Play with Kyle Kneath — James Edward Gray II](https://peepcode.com/products/play-by-play-kneath)
 - [Avdi's Lunch and Learn at Hashrocket video — James Edward Gray II](http://vimeo.com/42622511)
@@ -2798,11 +2808,11 @@ Published: 05-19-2012
 - [CarrierWave — David Brady](https://github.com/jnicklas/carrierwave)
 - [TotalFinder — Charles Max Wood](http://totalfinder.binaryage.com/)
 - [Transmit — Charles Max Wood](http://www.sharefile.com/try/X/?src=google&cat=6&v=t10&gclid=COjx68yXk7ACFWrptgodvDvCpQ&tz=east)
-- [Doctor Who  — Charles Max Wood](http://itunes.apple.com/us/tv-season/doctor-who-season-6-pt.-1/id429968199)
+- [Doctor Who  — Charles Max Wood](http://itunes.apple.com/us/tv-season/doctor-who-season-6-pt.-1/id429968199)
 - [Ultraviolet TV Series — Avdi Grimm](http://en.wikipedia.org/wiki/Ultraviolet_(TV_serial))
 - [Sony Vegas — Avdi Grimm](http://www.sonycreativesoftware.com/vegassoftware)
 - [Software Engineering Radio Podcast — Avdi Grimm](http://itunes.apple.com/us/podcast/software-engineering-radio/id120906714)
-- [Skyrim  — Laurent Sansonetti](http://www.amazon.com/gp/product/B004HYK956/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B004HYK956)
+- [Skyrim  — Laurent Sansonetti](http://www.amazon.com/gp/product/B004HYK956/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B004HYK956)
 - [Boardwalk Empire — Laurent Sansonetti](http://itunes.apple.com/us/tv-season/boardwalk-empire-season-1/id482056609)
 - [Mad Men — James Edward Gray II](http://itunes.apple.com/us/tv-season/mad-men-season-4/id377408518)
 - ["Please Don't Learn to Code" — James Edward Gray II](http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html)
@@ -2810,7 +2820,7 @@ Published: 05-19-2012
 
 ##RR Coding Exercises, Quizzes, and Katas
 Published: 05-11-2012
-- [InfoWorld Hello World Quiz  — Josh Susser](http://www.infoworld.com/d/application-development/hello-world-programming-languages-quiz-188874)
+- [InfoWorld Hello World Quiz  — Josh Susser](http://www.infoworld.com/d/application-development/hello-world-programming-languages-quiz-188874)
 - [Monkey Patched RubyKoans — Charles Max Wood](http://www.heartmindcode.com/blog/2011/07/donkeypunching-ruby-koans/)
 - [Enumerable by Inject — Josh Susser](http://apidock.com/ruby/Enumerable/inject)
 - [Qlobe — David Brady](http://mamememo.blogspot.com/2010/09/qlobe.html)
@@ -2823,7 +2833,7 @@ Published: 05-11-2012
 ##RR Square with Jack Danger Canty and Zach Brock
 Published: 05-04-2012
 - [Avdi's Blog Post on Facebook Dev Tunnel Services — Avdi Grimm](http://devblog.avdi.org/2012/04/27/http-forwarding-services-for-local-facebook-development/)
-- [Jack Danger Quora Answer — Josh Susser](http://www.quora.com/What-is-it-like-to-have-a-middle-name-that-lets-you-say-X-is-my-middle-name-in-appropriate-situations/answer/Jack-Danger-Stevens-Canty)
+- [Jack Danger Quora Answer — Josh Susser](http://www.quora.com/What-is-it-like-to-have-a-middle-name-that-lets-you-say-X-is-my-middle-name-in-appropriate-situations/answer/Jack-Danger-Stevens-Canty)
 - [Steel City RubyConf — Josh Susser](http://steelcityrubyconf.org/)
 - [Mac Whitenoise — Josh Susser](http://www.tmsoft.com/mac-white-noise.html)
 - [The Quirky Power Wrap Power Thingy — Josh Susser](http://www.quirky.com/products/15-PowerCurl-Mac-Cord-Manager)
@@ -2844,11 +2854,11 @@ Published: 04-26-2012
 - [Primer — Josh Susser](http://www.youtube.com/watch?v=gFJMcAB5SFU)
 - [15 Pro Tips for Conference Speakers — Josh Susser](http://blog.hasmanythrough.com/2011/7/18/fifteen-protips-for-conference-speakers)
 - [Evan Phoenix - GoGaRuCo 2010 — Josh Susser](http://2010.gogaruco.com/speakers.html#phoenix)
-- [The Information Diet  — David Brady](http://www.amazon.com/gp/product/1449304680/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1449304680)
-- [Leadership and Self Deception  — David Brady](http://www.amazon.com/gp/product/1576759776/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1576759776)
+- [The Information Diet  — David Brady](http://www.amazon.com/gp/product/1449304680/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1449304680)
+- [Leadership and Self Deception  — David Brady](http://www.amazon.com/gp/product/1576759776/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1576759776)
 - [Scott Sweeney Episode on RubyFreelancers.com — Charles Max Wood](http://rubyfreelancers.com/the-ruby-freelancers-show-011-taxes-and-finances-with-scott-sweeney/)
 - [TED Talk on Plants — Charles Max Wood](http://www.ted.com/talks/kamal_meattle_on_how_to_grow_your_own_fresh_air.html)
-- [Getting Things Done  — Charles Max Wood](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280)
+- [Getting Things Done  — Charles Max Wood](http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142000280)
 - [Good Morning Interwebs by Jeremy McAnally — James Edward Gray II](http://goodmorninginterwebs.com/)
 
 ##RR Hungry Academy with Jeff Casimir
@@ -2897,9 +2907,9 @@ Published: 03-29-2012
 - [ApologyPro.com — Josh Susser](http://apologypro.com/)
 - [iPad Stylus — Josh Susser](http://www.amazon.com/gp/product/B004VM0SE6/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B004VM0SE6)
 - [DrawSomething — David Brady](http://itunes.apple.com/us/app/draw-something-by-omgpop/id488627858?mt=8)
-- [Erector  — Avdi Grimm](http://rubygems.org/gems/erector)
+- [Erector  — Avdi Grimm](http://rubygems.org/gems/erector)
 - [UserVoice — Charles Max Wood](http://www.uservoice.com/)
-- [Old Versions of Skype  — Charles Max Wood](http://mac.oldapps.com/skype.php?old_skype=42)
+- [Old Versions of Skype  — Charles Max Wood](http://mac.oldapps.com/skype.php?old_skype=42)
 - [Steve Klabnik's Dad (blog post) — Charles Max Wood](http://blog.steveklabnik.com/posts/2012-03-26-birthday-cards-for-dad)
 - [Piotr Sarnacki — José Valim](http://piotrsarnacki.com/)
 - [Plataforma — José Valim](http://blog.plataformatec.com.br/)
@@ -2916,7 +2926,7 @@ Published: 03-27-2012
 - [Things — Charles Max Wood](https://devchat.tv/ruby-rogues/047-rr-coding-disciplines)
 - [John Carter — Josh Susser](http://disney.go.com/johncarter/)
 - [Known Space (Larry Niven) — Josh Susser](http://www.amazon.com/gp/product/0345404483/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0345404483)
-- [Larry Niven  — Josh Susser](http://www.amazon.com/Larry-Niven/e/B000APNCCI)
+- [Larry Niven  — Josh Susser](http://www.amazon.com/Larry-Niven/e/B000APNCCI)
 - [Github Ruby Style Guide — Josh Susser](https://github.com/bbatsov/ruby-style-guide)
 - [Objects on Rails Google Group — Avdi Grimm](http://groups.google.com/group/objects-on-rails?pli=1)
 - [Michael Feathers: Tell Above, Ask Below — Avdi Grimm](http://michaelfeathers.typepad.com/michael_feathers_blog/2012/03/tell-above-and-ask-below-hybridizing-oo-and-functional-design.html)
@@ -2926,27 +2936,27 @@ Published: 03-27-2012
 Published: 03-20-2012
 - [Disc covers for Star Wars — James Edward Gray II](http://www.prillaman.net/dvd-covers-starwars.html)
 - [Toast Titanium — James Edward Gray II](http://www.roxio.com/enu/products/toast/titanium/)
-- [Transmission  — James Edward Gray II](http://www.transmissionbt.com/)
+- [Transmission  — James Edward Gray II](http://www.transmissionbt.com/)
 - [Harmy's Despecialized Edition of Star Wars — James Edward Gray II](http://www.screened.com/news/behind-the-scenes-of-harmys-star-wars-despecialized-edition/2917/)
 - [Scrivener — Charles Max Wood](http://literatureandlatte.com/)
 - [Chrome Canary — Charles Max Wood](http://tools.google.com/dlpage/chromesxs)
 - [Less Wrong blog — Avdi Grimm](http://lesswrong.com/)
 - [Cerealize.com — Josh Susser](http://cerealize.com/)
 - [youngwizards.com — Josh Susser](http://www.youngwizards.com/)
-- [Cat wizards series  — Josh Susser](http://www.amazon.com/gp/product/0446673021/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0446673021  )
-- [So you want to be a wizard  — Josh Susser](http://www.amazon.com/gp/product/061336077X/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=061336077X  )
-- [Young Wizards by Diane Duane  — Josh Susser](http://www.amazon.com/Young-Wizards-Diane-Duane/lm/1TJVZ68WIYREC)
+- [Cat wizards series  — Josh Susser](http://www.amazon.com/gp/product/0446673021/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0446673021  )
+- [So you want to be a wizard  — Josh Susser](http://www.amazon.com/gp/product/061336077X/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=061336077X  )
+- [Young Wizards by Diane Duane  — Josh Susser](http://www.amazon.com/Young-Wizards-Diane-Duane/lm/1TJVZ68WIYREC)
 
 ##RR Bundler with André Arko
 Published: 03-14-2012
 - [Game of Thrones on DVD & BluRay — James Edward Gray II](http://www.amazon.com/gp/product/B003Y5HWMW/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B003Y5HWMW)
 - [bundle viz - requires graphviz — Josh Susser](https://devchat.tv/ruby-rogues/045-rr-bundler-with-andre-arko)
-- [The Developer's Code  — David Brady](http://www.amazon.com/gp/product/1934356794/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1934356794)
+- [The Developer's Code  — David Brady](http://www.amazon.com/gp/product/1934356794/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1934356794)
 - [calibre — Avdi Grimm](http://calibre-ebook.com/)
 - [pandoc — Avdi Grimm](http://johnmacfarlane.net/pandoc/)
-- [FitBit  — Charles Max Wood](http://www.amazon.com/gp/product/B005PUONIK/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B005PUONIK)
+- [FitBit  — Charles Max Wood](http://www.amazon.com/gp/product/B005PUONIK/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B005PUONIK)
 - [JWZ's mix tapes — André Arko](http://www.dnalounge.com/webcast/mixtapes/)
-- [hypercritical  — André Arko](http://5by5.tv/hypercritical)
+- [hypercritical  — André Arko](http://5by5.tv/hypercritical)
 - [bundle gem — André Arko](https://github.com/carlhuda/bundler)
 
 ##RR Choosing the Right Career Path with Marty Haught
@@ -2960,12 +2970,12 @@ Published: 03-05-2012
 - [Rock Health youtube channel — Josh Susser](http://www.youtube.com/rockhealth)
 - [Machete order for watching the Star Wars Saga — Josh Susser](http://static.nomachetejuggling.com/machete_order.html)
 - [Shlock Mercenary — David Brady](http://www.schlockmercenary.com/)
-- [Feel the Fear and Do it Anyway  — David Brady](http://www.amazon.com/gp/product/0449902927/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0449902927)
+- [Feel the Fear and Do it Anyway  — David Brady](http://www.amazon.com/gp/product/0449902927/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0449902927)
 - [Do What You Love and the Money Will Follow — David Brady](http://www.amazon.com/What-Love-Money-Will-Follow/dp/0440501601)
-- [Knights of the Old Republic  — David Brady](http://itunes.apple.com/us/app/star-wars-knights-old-republic/id416608891?mt=12)
-- [Knights of the Old Republic 2  — David Brady](http://www.amazon.com/gp/product/B00027CXEM/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B00027CXEM)
-- [48 Days to the Work You Love  — Charles Max Wood](http://www.amazon.com/gp/product/1433669331/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1433669331)
-- [No More Dreaded Mondays  — Charles Max Wood](http://www.amazon.com/gp/product/0307588777/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0307588777)
+- [Knights of the Old Republic  — David Brady](http://itunes.apple.com/us/app/star-wars-knights-old-republic/id416608891?mt=12)
+- [Knights of the Old Republic 2  — David Brady](http://www.amazon.com/gp/product/B00027CXEM/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B00027CXEM)
+- [48 Days to the Work You Love  — Charles Max Wood](http://www.amazon.com/gp/product/1433669331/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1433669331)
+- [No More Dreaded Mondays  — Charles Max Wood](http://www.amazon.com/gp/product/0307588777/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0307588777)
 - [48 Days podcast — Charles Max Wood](http://www.48days.com/category/48-days-podcast/)
 - [Passionate Programmer — Marty Haught](http://pragprog.com/book/cfcar2/the-passionate-programmer)
 - [How to Do What You Love and Earn What You're Worth by Reg Braithwaite — Marty Haught](http://leanpub.com/dowhatyoulove)
@@ -2975,11 +2985,11 @@ Published: 03-05-2012
 Published: 02-24-2012
 - [ThemeForest — James Edward Gray II](http://themeforest.net/)
 - [Marc Andre's Writing your own Programming Language course — James Edward Gray II](http://macournoyer.com/)
-- [Inventing on Principle  — James Edward Gray II](http://vimeo.com/36579366)
-- [The Kama Pootra  — David Brady](http://www.amazon.com/gp/product/1402237146/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1402237146)
+- [Inventing on Principle  — James Edward Gray II](http://vimeo.com/36579366)
+- [The Kama Pootra  — David Brady](http://www.amazon.com/gp/product/1402237146/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1402237146)
 - [ASS-ock not as-OSH — David Brady](https://devchat.tv/ruby-rogues/043-rr-book-club-land-of-list-with-conrad-barski)
-- [1Q84  — Conrad Barski](http://www.amazon.com/gp/product/0307593312/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0307593312)
-- [Boomerang  — Conrad Barski](http://www.seas.upenn.edu/~harmony/)
+- [1Q84  — Conrad Barski](http://www.amazon.com/gp/product/0307593312/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0307593312)
+- [Boomerang  — Conrad Barski](http://www.seas.upenn.edu/~harmony/)
 - [Bi-directional programming languages — Conrad Barski](https://devchat.tv/ruby-rogues/043-rr-book-club-land-of-list-with-conrad-barski)
 - [The Third Tribe — Charles Max Wood](http://thirdtribemarketing.com/)
 - [Appsumo — Charles Max Wood](http://www.appsumo.com/welcome/?next=/freshforms-1-year-gold-plan/)
@@ -2989,16 +2999,16 @@ Published: 02-24-2012
 Published: 02-16-2012
 - [Stack Overflow discussion on JavaScript being an untyped system — Peter Cooper](http://stackoverflow.com/questions/964910/is-javascript-an-untyped-language)
 - [Monocle Magazine — Peter Cooper](http://www.monocle.com/)
-- [Rails 3 in Action  — Peter Cooper](http://www.amazon.com/gp/product/1935182277/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1935182277)
+- [Rails 3 in Action  — Peter Cooper](http://www.amazon.com/gp/product/1935182277/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=1935182277)
 - [Why Geeks love Big Bang Theory — James Edward Gray II](http://www.ugo.com/tv/reasons-geeks-love-the-big-bang-theory)
 - [Why Geeks don't like Big Bang Theory — James Edward Gray II](http://www.ugo.com/tv/11-reasons-geeks-hate-the-big-bang-theory)
 - [Big Bang Theory — James Edward Gray II](http://www.cbs.com/shows/big_bang_theory/)
 - [Peepcode Advanced Git — James Edward Gray II](http://peepcode.com/products/advanced-git)
 - [Aweber — Charles Max Wood](http://www.aweber.com/?310133 )
 - [Successful Lisp — Avdi Grimm](http://psg.com/~dlamkins/sl/)
-- [Land of Lisp  — Avdi Grimm](http://en.wikipedia.org/wiki/Coffee)
+- [Land of Lisp  — Avdi Grimm](http://en.wikipedia.org/wiki/Coffee)
 - [Coffee — Avdi Grimm](http://en.wikipedia.org/wiki/Coffee)
-- [Forem  — Charles Max Wood](http://rubygems.org/gems/forem/)
+- [Forem  — Charles Max Wood](http://rubygems.org/gems/forem/)
 
 ##RR Code Metrics with Bryan Helmkamp
 Published: 02-10-2012
@@ -3008,7 +3018,7 @@ Published: 02-10-2012
 - [Travis CI — Josh Susser](http://travis-ci.org/)
 - [Love Travis CI — Josh Susser](http://travis-ci.org/)
 - [Mac Tracker — Josh Susser](http://mactracker.ca/)
-- [Javascript Patterns  — Avdi Grimm](http://www.amazon.com/gp/product/0596806752/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0596806752)
+- [Javascript Patterns  — Avdi Grimm](http://www.amazon.com/gp/product/0596806752/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0596806752)
 - [Goruco — Bryan Helmkamp](http://goruco.com/)
 - [Code Climate — Bryan Helmkamp](https://codeclimate.com/)
 - [metric_fu — Charles Max Wood](http://rubygems.org/gems/metric_fu)
@@ -3031,19 +3041,19 @@ Published: 02-03-2012
 - [YASnippet — David Brady](http://code.google.com/p/yasnippet/)
 - [EL4R — David Brady](http://www.rubyist.net/~rubikitch/computer/el4r/index.en.html)
 - [Jawbone Jambox — Josh Susser](http://www.amazon.com/gp/product/B004E10KI8/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B004E10KI8)
-- [American Gods by Neal Gaimon  — Avdi Grimm](http://www.amazon.com/gp/product/0380789035/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0380789035)
+- [American Gods by Neal Gaimon  — Avdi Grimm](http://www.amazon.com/gp/product/0380789035/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0380789035)
 - [Emacs Wiki — Avdi Grimm](http://www.emacswiki.org/)
 
 ##RR Programming Language Fundamentals
 Published: 01-29-2012
 - [in C remixed — James Edward Gray II](http://www.amazon.com/gp/product/B002QGE67Y/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002QGE67Y)
-- [Radio Lab episode on Zoe Keating  — James Edward Gray II](http://www.radiolab.org/search/?cx=009801551925401469317%3Asrtcvuwcbum&cof=FORID%3A11&q=zoe+keating&submit=)
+- [Radio Lab episode on Zoe Keating  — James Edward Gray II](http://www.radiolab.org/search/?cx=009801551925401469317%3Asrtcvuwcbum&cof=FORID%3A11&q=zoe+keating&submit=)
 - [Zoe Keating — James Edward Gray II](http://www.amazon.com/mn/search?_encoding=UTF8&x=0&tag=chamaxwoo-20&ie=UTF8&linkCode=ur2&y=0&camp=1789&creative=390957&field-keywords=zoe%20keating&url=search-alias%3Dstripbooks%23)
-- [PuzzleNode  — James Edward Gray II](http://puzzlenode.com/)
+- [PuzzleNode  — James Edward Gray II](http://puzzlenode.com/)
 - [Dora The Explorer — Charles Max Wood](http://www.amazon.com/gp/product/B002VJ05DU/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002VJ05DU)
 - [Apple Magic Mouse — Charles Max Wood](http://www.amazon.com/gp/product/B002TLTGM6/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002TLTGM6)
-- [Star Wars uncut  — David Brady](http://www.starwarsuncut.com/)
-- [RubyMine  — Josh Susser](http://www.jetbrains.com/ruby/)
+- [Star Wars uncut  — David Brady](http://www.starwarsuncut.com/)
+- [RubyMine  — Josh Susser](http://www.jetbrains.com/ruby/)
 
 ##RR Web Programming and Updating Frameworks with Yehuda Katz
 Published: 01-20-2012
@@ -3086,7 +3096,7 @@ Published: 01-05-2012
 - [Screaming Monkey — Charles Max Wood](http://www.amazon.com/gp/product/B000OEUUG6/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B000OEUUG6)
 - [Gemnasium — Josh Susser](https://gemnasium.com/)
 - [Johnnie Walker Double Black — Avdi Grimm](http://cocktailenthusiast.com/2011/10/03/johnnie-walker-double-black-scotch-whisky-review/)
-- [Addressable URI   — Avdi Grimm](http://rubygems.org/gems/addressable)
+- [Addressable URI   — Avdi Grimm](http://rubygems.org/gems/addressable)
 
 ##RR Estimation
 Published: 12-31-2011
@@ -3100,7 +3110,7 @@ Published: 12-31-2011
 - [Destroy All Software — Avdi Grimm](https://www.destroyallsoftware.com/screencasts)
 - [Blanton's — Avdi Grimm](https://www.blantonsbourbon.com/)
 - [Kindle Touch — Charles Max Wood](http://www.amazon.com/gp/product/B005890G8Y/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B005890G8Y)
-- [Rolls Mic Mute - Rolls MM11  — Charles Max Wood](http://www.amazon.com/gp/product/B00102XXUQ/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00102XXUQ)
+- [Rolls Mic Mute - Rolls MM11  — Charles Max Wood](http://www.amazon.com/gp/product/B00102XXUQ/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00102XXUQ)
 
 ##RR Benchmarking and Profiling with Aaron Patterson
 Published: 12-24-2011
@@ -3110,12 +3120,12 @@ Published: 12-24-2011
 - [Predictably Irrational — David Brady](http://danariely.com/the-books/)
 - [Freakonomics 2 — David Brady](http://www.freakonomics.com/books/superfreakonomics/)
 - [Size-up — David Brady](http://www.irradiatedsoftware.com/sizeup/)
-- [The Dave Ramsey Show  — Charles Max Wood](http://itunes.apple.com/us/podcast/the-dave-ramsey-show/id77001367)
-- [The Entreleadership Podcast  — Charles Max Wood](http://itunes.apple.com/us/podcast/the-entreleadership-podcast/id435836905)
+- [The Dave Ramsey Show  — Charles Max Wood](http://itunes.apple.com/us/podcast/the-dave-ramsey-show/id77001367)
+- [The Entreleadership Podcast  — Charles Max Wood](http://itunes.apple.com/us/podcast/the-entreleadership-podcast/id435836905)
 - [The Adventures of Merlin — Charles Max Wood](http://www.amazon.com/gp/product/B001LF347E/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001LF347E)
 - [George Foreman Grill — Aaron Patterson](http://www.amazon.com/gp/product/B001NXC65K/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001NXC65K)
 - [Pragmatic Thinking and Learning — Aaron Patterson](http://www.amazon.com/gp/product/1934356050/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1934356050)
-- [Burn Notice  — Avdi Grimm](http://www.amazon.com/gp/product/B0015RRNMA/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0015RRNMA)
+- [Burn Notice  — Avdi Grimm](http://www.amazon.com/gp/product/B0015RRNMA/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0015RRNMA)
 - [Reg Braithwaite's Combinators in Ruby — Avdi Grimm](https://github.com/raganwald/homoiconic/blob/master/2008-11-07/from_birds_that_compose_to_method_advice.markdown#readme)
 - [Fantastical — Aaron Patterson](http://flexibits.com/fantastical)
 
@@ -3242,8 +3252,8 @@ Published: 10-19-2011
 - [Knowing Your Tools — Charles Max Wood](https://devchat.tv/ruby-rogues/025-rr-logging-i-do-not-think-it-means-what-you-think-it-means)
 - [Community and Thanking People — Tim Pease](https://devchat.tv/ruby-rogues/025-rr-logging-i-do-not-think-it-means-what-you-think-it-means)
 - [Apache Kafka — Tim Pease](http://incubator.apache.org/kafka/)
-- [screenr.com  — Avdi Grimm](http://screenr.com)
-- [repl.it  — Avdi Grimm](http://repl.it)
+- [screenr.com  — Avdi Grimm](http://screenr.com)
+- [repl.it  — Avdi Grimm](http://repl.it)
 
 ##RR Best Practice Patterns Part 2
 Published: 10-13-2011
@@ -3263,7 +3273,7 @@ Published: 10-07-2011
 - [Hivelogic Podcasting Equipment Guide — Charles Max Wood](http://hivelogic.com/articles/podcasting-equipment-guide/)
 - [Heil PR-40￼ — Charles Max Wood](http://www.amazon.com/gp/product/B000BQXOEM/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B000BQXOEM)
 - [Railtie — Charles Max Wood](http://edgeapi.rubyonrails.org/classes/Rails/Railtie.html)
-- [Shapes￼, Flow￼, and Branches￼ by Phillip Ball — Kent Beck](https://devchat.tv/ruby-rogues/023-rr-book-club-smalltalk-best-practice-patterns-with-kent-beck)
+- [Shapes￼, Flow￼, and Branches￼ by Phillip Ball — Kent Beck](https://devchat.tv/ruby-rogues/023-rr-book-club-smalltalk-best-practice-patterns-with-kent-beck)
 - [D3.js Project from Michael Bostock — Kent Beck](http://d3js.org/)
 - [Rooibos Tea — Kent Beck](http://www.rooibostea.com/)
 - [rcodetools  — Avdi Grimm](http://rubygems.org/gems/rcodetools)
@@ -3299,14 +3309,14 @@ Published: 09-22-2011
 - [Yahoo - REST-Discuss — Steve Klabnik](http://tech.groups.yahoo.com/group/rest-discuss/)
 - [Stevey's Drunken Blog Rants™ — Steve Klabnik](https://sites.google.com/site/steveyegge2/blog-rants)
 - [Untangled — Steve Klabnik](http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
-- [Representational State Transfer (REST) — David Brady](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+- [Representational State Transfer (REST) — David Brady](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 - [Class Construction in C and C++ — David Brady](http://www.amazon.com/gp/product/0136301045/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0136301045)
 - [Structure and Interpretation of Computer Programs — David Brady](http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/)
 - [Stack Overflow — Charles Max Wood](http://stackoverflow.com/)
 - [Restful Web Services — James Edward Gray II](http://www.amazon.com/gp/product/0596529260/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0596529260)
-- [PDF: Structure and Interpretation of Computer Programs — David Brady](http://sicpebook.files.wordpress.com/2011/06/sicp.pdf)
+- [PDF: Structure and Interpretation of Computer Programs — David Brady](http://sicpebook.files.wordpress.com/2011/06/sicp.pdf)
 - [Google Docs version: Structure and Interpretation of Computer Programs — David Brady](https://docs.google.com/a/fitorbit.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BxVCLS4f8Sg5OGUwMmZlZjYtZWQ4Zi00ZThmLWFkMjYtNTIxZmY4ODhjNDdl&hl=en&authkey=CLnyyF4&pli=1)
-- [Open Courseware of SICP: Structure and Interpretation of Computer Programs — David Brady](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
+- [Open Courseware of SICP: Structure and Interpretation of Computer Programs — David Brady](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
 - [Structure and Interpretation of Computer Programs, Second Edition — David Brady](http://www.amazon.com/gp/product/0070004846/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0070004846)
 - [rails camp — Avdi Grimm](http://railscamps.com/)
 - [barcamp — Avdi Grimm](http://barcamp.org/w/page/402984/FrontPage)
@@ -3316,12 +3326,16 @@ Published: 09-22-2011
 - [Klout — Josh Susser](http://klout.com/)
 - [Confreaks — Josh Susser](http://confreaks.net/events/gogaruco2011)
 
+##Book Club Announcement: Smalltalk Best Practice Patterns with Kent Beck
+Published: 09-14-2011
+- [foo — Charles Max Wood](https://devchat.tv/ruby-rogues/book-club-announcement-smalltalk-best-practice-patterns-with-kent-beck)
+
 ##RR Object Oriented Programming in Rails with Jim Weirich
 Published: 09-14-2011
 - [World of Goo HD — Charles Max Wood](http://click.linksynergy.com/fs-bin/click?id=tINTP47iIA8&offerid=146261.401301276&type=2&subid=0)
 - [Bloons Tower Defense 4 — Charles Max Wood](http://ninjakiwi.com/Games/Tower-Defense/Play/Bloons-Tower-Defense-4.html)
 - [Institute of Awesome — Charles Max Wood](http://letsfreckle.com/institute-of-awesome/#day26)
-- [AeroPress Coffee and Espresso Maker  — Avdi Grimm](http://www.amazon.com/gp/product/B001HBCVX0/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B001HBCVX0)
+- [AeroPress Coffee and Espresso Maker  — Avdi Grimm](http://www.amazon.com/gp/product/B001HBCVX0/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B001HBCVX0)
 - [hub — Avdi Grimm](https://github.com/blog/564-hub-git-with-github)
 - [Vimcasts — David Brady](http://vimcasts.org)
 - [awesome_print gem — David Brady](https://github.com/michaeldv/awesome_print)
@@ -3329,17 +3343,13 @@ Published: 09-14-2011
 - [Ryan Tomayko's Blog Post on Unicorn — James Edward Gray II](http://tomayko.com/writings/unicorn-is-unix)
 - [RailsBridge Workshops — Josh Susser](http://wiki.railsbridge.org/projects/1/wiki/Workshops)
 
-##Book Club Announcement: Smalltalk Best Practice Patterns with Kent Beck
-Published: 09-14-2011
-- [foo — Charles Max Wood](https://devchat.tv/ruby-rogues/book-club-announcement-smalltalk-best-practice-patterns-with-kent-beck)
-
 ##RR Book Club: Exceptional Ruby with Avdi Grimm
 Published: 09-10-2011
 - [Amadeus Pro — James Edward Gray II](http://www.hairersoft.com/pro.html)
 - [Levelator — James Edward Gray II](http://www.conversationsnetwork.org/levelator)
 - [Audio Hijack Pro — James Edward Gray II](http://www.rogueamoeba.com/audiohijackpro/)
 - [How to Record Skype Conversations — James Edward Gray II](http://labnol.blogspot.com/2006/06/how-to-record-skype-conversations.html)
-- [IO Programming Language  — Steven! Ragnarok](http://iolanguage.com)
+- [IO Programming Language  — Steven! Ragnarok](http://iolanguage.com)
 - [The Original Wiki c2.com — Josh Susser](http://c2.com/cgi/wiki?WelcomeVisitors)
 - [Television Tropes & Idioms — Josh Susser](http://tvtropes.org)
 - [Google Maps — Charles Max Wood](http://www.google.com/url?sa=t&source=web&cd=1&ved=0CB8QFjAA&url=https%3A%2F%2Fmarket.android.com%2Fdetails%3Fid%3Dcom.google.android.apps.maps&ei=j5hrTumBD-eRsALj5q3UBA&usg=AFQjCNFfQgvHxwyrfeZGBiyi-5qap_atFw&sig2=keHPvQMgk7q27oxbwJSWfg)
@@ -3365,7 +3375,7 @@ Published: 09-07-2011
 - [Rails 3.0 — James Edward Gray II](https://devchat.tv/ruby-rogues/whats-wrong-with-ruby)
 - [Skype — Charles Max Wood](http://skype.com)
 - [Netflix for iPad — Charles Max Wood](https://devchat.tv/ruby-rogues/whats-wrong-with-ruby)
-- [Mirrors Post  — Brian Ford](http://www.wirfs-brock.com/allen/posts/228)
+- [Mirrors Post  — Brian Ford](http://www.wirfs-brock.com/allen/posts/228)
 - [Actors Blog Post — Brian Ford](http://www.dalnefre.com/wp/)
 - [ThinkGeek — Josh Susser](http://www.thinkgeek.com/geektoys)
 - [Office Playground — Josh Susser](http://officeplayground.com/)
@@ -3502,17 +3512,17 @@ Published: 06-16-2011
 - [Race For The Galaxy — James Edward Gray II](http://www.amazon.com/gp/product/B000YLAOEW/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B000YLAOEW)
 - [Ticket To Ride — Charles Max Wood](http://www.amazon.com/gp/product/B0002TV2LU/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B0002TV2LU)
 - [The Settlers of Catan — Charles Max Wood](http://www.amazon.com/gp/product/B000W7JWUA/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B000W7JWUA)
-- [Mobile Magic (Disneyland Android App)  — Charles Max Wood](http://disneyparks.disney.go.com/blog/2009/10/mobile-magic-first-disney-parks-mobile-app-details-screen-shots-unveiled/)
+- [Mobile Magic (Disneyland Android App)  — Charles Max Wood](http://disneyparks.disney.go.com/blog/2009/10/mobile-magic-first-disney-parks-mobile-app-details-screen-shots-unveiled/)
 - [Elantris — Charles Max Wood](http://www.amazon.com/gp/product/0765350378/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0765350378)
-- [iPad Kindle App  — Charles Max Wood](http://itunes.apple.com/us/app/kindle/id302584613?mt=8)
-- [open_gem  — Mike Moore](https://github.com/adamsanderson/open_gem)
-- [Rubyflow.com  — Gregory Brown](http://rubyflow.com)
-- [Couch to 5k  — Gregory Brown](http://www.coolrunning.com/engine/2/2_3/181.shtml)
-- [The Go Programming Language, or: Why all C-like languages except one suck.  — Peter Cooper](http://www.syntax-k.de/projekte/go-review)
-- [go  — Peter Cooper](http://golang.org/)
-- [rails footnotes  — Peter Cooper](https://github.com/josevalim/rails-footnotes)
-- [awesome_print  — Peter Cooper](https://github.com/michaeldv/awesome_print)
-- [Scrabble Crossword Game  — Peter Cooper](http://www.amazon.com/gp/product/B00000IWDB/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B00000IWDB)
+- [iPad Kindle App  — Charles Max Wood](http://itunes.apple.com/us/app/kindle/id302584613?mt=8)
+- [open_gem  — Mike Moore](https://github.com/adamsanderson/open_gem)
+- [Rubyflow.com  — Gregory Brown](http://rubyflow.com)
+- [Couch to 5k  — Gregory Brown](http://www.coolrunning.com/engine/2/2_3/181.shtml)
+- [The Go Programming Language, or: Why all C-like languages except one suck.  — Peter Cooper](http://www.syntax-k.de/projekte/go-review)
+- [go  — Peter Cooper](http://golang.org/)
+- [rails footnotes  — Peter Cooper](https://github.com/josevalim/rails-footnotes)
+- [awesome_print  — Peter Cooper](https://github.com/michaeldv/awesome_print)
+- [Scrabble Crossword Game  — Peter Cooper](http://www.amazon.com/gp/product/B00000IWDB/ref=as_li_ss_tl?ie=UTF8&tag=chamaxwoo-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=B00000IWDB)
 - [Gaming side events at conferences — James Edward Gray II](https://devchat.tv/ruby-rogues/debugging-in-ruby)
 
 ##RR Conferences and User Groups
