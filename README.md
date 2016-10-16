@@ -1,6 +1,21 @@
 # Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
 
+##RR Twilio with Greg Baugues
+Published: 05-04-2016
+- [The CHECKS Pattern Language of Information Integrity - Avdi Grimm](http://c2.com/ppr/checks.html)
+- [Delegation - Avdi Grimm]()
+- [CaJohns Ignite Hot Sauce - David Brady](http://cajohns.com/store/index.php?route=product/product&product_id=119)
+- [beach house - Coraline Ada Ehmke](http://www.beachhousebaltimore.com/)
+- [CocoRosie - Coraline Ada Ehmke](http://www.tgrec.com/bands/band.php?id=8)
+- [The Misters of Circe - Sam Livingston-Gray](https://www.facebook.com/themistersofcirce)
+- [DesktopServer - Charles Max Wood](https://serverpress.com/get-desktopserver/)
+- [Advanced Custom Fields - Charles Max Wood](https://wordpress.org/plugins/advanced-custom-fields/)
+- [Convert Post Types - Charles Max Wood](https://wordpress.org/plugins/convert-post-types/)
+- [Gravity Forms - Charles Max Wood](http://www.gravityforms.com/)
+- [MemberPress - Charles Max Wood](https://www.memberpress.com/)
+- [SIGNAL Conference - Greg Baugues](http://twilio.com/signal)
+
 ##RR Learning and Training with Neil Brown
 Published: 04-27-2016
 - [git-standup - Coraline Ada Ehmke](https://github.com/kamranahmedse/git-standup/)
