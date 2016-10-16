@@ -1,6 +1,17 @@
 # Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
 
+##RR Reading Code and The Architecture of Open Source Applications with Michael DiBernardo
+Published: 04-20-2016
+- [Udi Dahan: The Fallacy Of ReUse - David Brady](http://udidahan.com/2009/06/07/the-fallacy-of-reuse/)
+- [Dan Luu: Normalization of deviance in software: how broken practices become standard - David Brady](http://danluu.com/wat/)
+- [A Mind of Its Own: How Your Brain Distorts and Deceives by Cordelia Fine - Avdi Grimm](http://www.amazon.com/Mind-Its-Own-Distorts-Deceives/dp/0393331636)
+- [HolloLens Demo - Charles Max Wood](https://www.microsoft.com/microsoft-hololens/en-us)
+- [Build a Raspberry Pi-Powered DIY Amazon Echo - Charles Max Wood](http://lifehacker.com/build-a-raspberry-pi-powered-diy-amazon-echo-1762678229)
+- [How Buildings Learn: What Happens After They’re Built by Stewart Brand - Michael DiBernardo](https://www.amazon.ca/How-Buildings-Learn-Happens-Theyre/dp/0140139966)
+- [How Learning Works: Seven Research-Based Principles for Smart Teaching - Michael DiBernardo](https://www.amazon.ca/How-Learning-Works-Research-Based-Principles/dp/0470484101)
+- [Writing Excuses - Michael DiBernardo](http://www.writingexcuses.com/)
+
 ##RR What's Missing? with Greg Wilson
 Published: 04-13-2016
 - [moonconf — Jessica Kerr](http://moonconf.org/)
