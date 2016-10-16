@@ -1,6 +1,16 @@
 # Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
 
+##RR Learning and Training with Neil Brown
+Published: 04-27-2016
+- [git-standup - Coraline Ada Ehmke](https://github.com/kamranahmedse/git-standup/)
+- [Ian Leslie: The Sugar Conspiracy - Coraline Ada Ehmke](http://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin)
+- [Craft Conference - Jessica Kerr](http://craft-conf.com/)
+- [UtahJS - Charles Max Wood](http://www.meetup.com/UtahJS/)
+- [Zoom H6 - Charles Max Wood](https://www.zoom-na.com/products/field-video-recording/field-recording/h6-handy-recorder)
+- [The sugar conspiracy - Neil Brown](http://www.theguardian.com/society/2016/apr/07/the-sugar-conspiracy-robert-lustig-john-yudkin)
+- [Treasure Islands: Tax Havens and the Men Who Stole the World by Nicholas Shaxson - Neil Brown](http://treasureislands.org/)
+
 ##RR Reading Code and The Architecture of Open Source Applications with Michael DiBernardo
 Published: 04-20-2016
 - [Udi Dahan: The Fallacy Of ReUse - David Brady](http://udidahan.com/2009/06/07/the-fallacy-of-reuse/)
